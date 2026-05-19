@@ -1,0 +1,1562 @@
+efo_id_norm,ot_therapeutic_area,ot_ta_raw
+EFO_0000095,Immunology,"hematologic disease|immune system disease|genetic, familial or congenital disease|cancer or benign tumor"
+EFO_0000180,Other,infectious disease|reproductive system or breast disease
+EFO_0000181,Oncology,cancer or benign tumor
+EFO_0000196,Oncology,cancer or benign tumor|reproductive system or breast disease
+EFO_0000220,Rare Disease,"hematologic disease|genetic, familial or congenital disease|cancer or benign tumor"
+EFO_0000339,Rare Disease,"musculoskeletal or connective tissue disease|genetic, familial or congenital disease|hematologic disease|immune system disease|cancer or benign tumor"
+EFO_0000389,Oncology,integumentary system disease|cancer or benign tumor
+EFO_0000519,Oncology,nervous system disease|cancer or benign tumor
+EFO_0000574,Rare Disease,"hematologic disease|genetic, familial or congenital disease|cancer or benign tumor"
+EFO_0000588,Oncology,cancer or benign tumor
+EFO_0000616,Oncology,cancer or benign tumor
+EFO_0000702,CVRM,"endocrine system disease|genetic, familial or congenital disease|respiratory or thoracic disease|cancer or benign tumor"
+EFO_0000708,Respiratory,respiratory or thoracic disease|cancer or benign tumor
+EFO_0000756,Oncology,cancer or benign tumor
+EFO_0000764,Other,infectious disease|reproductive system or breast disease
+EFO_0000768,Respiratory,respiratory or thoracic disease|cancer or benign tumor
+EFO_0000770,Respiratory,gastrointestinal disease|respiratory or thoracic disease|cancer or benign tumor
+EFO_0001378,Immunology,"immune system disease|hematologic disease|cancer or benign tumor|genetic, familial or congenital disease"
+EFO_0002429,Rare Disease,"genetic, familial or congenital disease|musculoskeletal or connective tissue disease|immune system disease|hematologic disease|cancer or benign tumor"
+EFO_0002617,Oncology,cancer or benign tumor
+EFO_0002618,CVRM,gastrointestinal disease|endocrine system disease|cancer or benign tumor
+EFO_0003060,Respiratory,respiratory or thoracic disease|cancer or benign tumor
+EFO_0003833,Oncology,nervous system disease|cancer or benign tumor
+EFO_0003869,Oncology,integumentary system disease|reproductive system or breast disease|cancer or benign tumor
+EFO_0003884,Other,urinary system disease
+EFO_0005221,CVRM,gastrointestinal disease|endocrine system disease|cancer or benign tumor
+EFO_0009441,Rare Disease,"genetic, familial or congenital disease|nutritional or metabolic disease|hematologic disease|immune system disease|cancer or benign tumor"
+EFO_0009606,Other,nervous system disease|disorder of visual system|phenotype
+EFO_0022597,Other,biological_process
+EFO_1000026,Oncology,cancer or benign tumor|nervous system disease
+EFO_1000453,CVRM,"nervous system disease|endocrine system disease|genetic, familial or congenital disease|cancer or benign tumor"
+EFO_1000657,Oncology,gastrointestinal disease|cancer or benign tumor
+EFO_1001465,Oncology,nervous system disease|cancer or benign tumor
+MONDO_0004355,Oncology,hematologic disease|cancer or benign tumor
+MONDO_0004975,Other,psychiatric disorder|nervous system disease|phenotype
+MONDO_0004992,Oncology,cancer or benign tumor
+MONDO_0005575,Oncology,gastrointestinal disease|cancer or benign tumor
+MONDO_0007254,Oncology,integumentary system disease|reproductive system or breast disease|cancer or benign tumor
+MONDO_0008315,Oncology,reproductive system or breast disease|cancer or benign tumor
+MONDO_0008903,Respiratory,respiratory or thoracic disease|cancer or benign tumor
+MONDO_0011719,Rare Disease,"genetic, familial or congenital disease|gastrointestinal disease|cancer or benign tumor"
+MONDO_0016586,Immunology,"hematologic disease|immune system disease|genetic, familial or congenital disease|cancer or benign tumor"
+MONDO_0021063,Oncology,gastrointestinal disease|cancer or benign tumor
+MONDO_0100096,Other,infectious disease
+MONDO_0100342,Oncology,nervous system disease|cancer or benign tumor
+MONDO_0810000,Other,disorder of visual system
+EFO_0000341,Respiratory,respiratory or thoracic disease
+EFO_0000555,Other,gastrointestinal disease
+EFO_0001421,CVRM,endocrine system disease|gastrointestinal disease
+EFO_0006505,Respiratory,respiratory or thoracic disease
+EFO_0010282,Other,gastrointestinal disease
+HP_0001657,Other,phenotype
+HP_0002014,Other,phenotype
+HP_0005208,Other,phenotype
+MONDO_0004822,Rare Disease,"genetic, familial or congenital disease|phenotype|respiratory or thoracic disease"
+MONDO_0016575,Respiratory,"respiratory or thoracic disease|genetic, familial or congenital disease"
+MONDO_0019171,Rare Disease,"genetic, familial or congenital disease"
+MONDO_0100192,CVRM,endocrine system disease|gastrointestinal disease
+EFO_0000198,Oncology,"hematologic disease|cancer or benign tumor|genetic, familial or congenital disease"
+EFO_0000222,Immunology,hematologic disease|immune system disease|cancer or benign tumor|musculoskeletal or connective tissue disease
+MONDO_0015667,Immunology,hematologic disease|immune system disease|cancer or benign tumor|musculoskeletal or connective tissue disease
+EFO_0001422,CVRM,endocrine system disease|gastrointestinal disease|cancer or benign tumor
+EFO_0004220,CVRM,infectious disease|gastrointestinal disease|endocrine system disease
+EFO_1001345,CVRM,endocrine system disease|gastrointestinal disease|psychiatric disorder
+HP_0001395,Other,phenotype
+MONDO_0010602,Rare Disease,"hematologic disease|genetic, familial or congenital disease"
+MONDO_0010604,Rare Disease,"hematologic disease|genetic, familial or congenital disease"
+MONDO_0015719,Rare Disease,"hematologic disease|genetic, familial or congenital disease"
+MONDO_0018660,Other,hematologic disease
+MP_0001914,Other,phenotype
+EFO_0000203,Other,hematologic disease
+EFO_0000209,Immunology,"hematologic disease|immune system disease|genetic, familial or congenital disease|cancer or benign tumor"
+EFO_0000403,Immunology,"hematologic disease|immune system disease|genetic, familial or congenital disease|cancer or benign tumor"
+EFO_0000565,Oncology,hematologic disease|cancer or benign tumor
+EFO_0004194,Rare Disease,"urinary system disease|genetic, familial or congenital disease|phenotype"
+EFO_0004254,Other,urinary system disease|phenotype
+EFO_0004289,Oncology,hematologic disease|cancer or benign tumor
+EFO_0004991,Immunology,immune system disease|nervous system disease|phenotype
+EFO_0005140,Immunology,immune system disease
+EFO_0005558,Other,hematologic disease|phenotype
+EFO_0005761,Immunology,immune system disease|urinary system disease|phenotype
+EFO_0006475,Immunology,"hematologic disease|immune system disease|genetic, familial or congenital disease|cancer or benign tumor"
+EFO_0007160,Immunology,immune system disease|hematologic disease|phenotype
+EFO_0007355,Oncology,reproductive system or breast disease|cancer or benign tumor
+EFO_0010673,Other,medical procedure
+EFO_1001115,Immunology,hematologic disease|immune system disease|nervous system disease|endocrine system disease|cancer or benign tumor|phenotype
+EFO_1001264,Immunology,hematologic disease|immune system disease|phenotype
+EFO_1001469,Immunology,"hematologic disease|immune system disease|genetic, familial or congenital disease|cancer or benign tumor"
+EFO_1001830,Rare Disease,"hematologic disease|genetic, familial or congenital disease|cancer or benign tumor"
+EFO_1001875,Other,nutritional or metabolic disease
+EFO_1001936,Immunology,"hematologic disease|immune system disease|genetic, familial or congenital disease|cancer or benign tumor"
+MONDO_0001705,Other,hematologic disease|phenotype
+MONDO_0002462,Other,urinary system disease|phenotype
+MONDO_0007915,Immunology,immune system disease|urinary system disease|musculoskeletal or connective tissue disease|phenotype
+MONDO_0010979,Rare Disease,"genetic, familial or congenital disease"
+MONDO_0018904,Other,urinary system disease|phenotype
+MONDO_0018906,Immunology,"hematologic disease|immune system disease|genetic, familial or congenital disease|cancer or benign tumor"
+EFO_0000199,Oncology,gastrointestinal disease|cancer or benign tumor
+EFO_0000545,Other,reproductive system or breast disease|phenotype
+EFO_0000673,Oncology,cancer or benign tumor|reproductive system or breast disease
+EFO_0001071,Respiratory,respiratory or thoracic disease|cancer or benign tumor
+EFO_0003144,CVRM,cardiovascular disease
+EFO_0004208,Immunology,immune system disease|integumentary system disease
+EFO_0008520,Immunology,nervous system disease|immune system disease
+EFO_0008522,Immunology,nervous system disease|immune system disease
+EFO_1000783,Other,nervous system disease|phenotype
+EFO_1001459,CVRM,integumentary system disease|cardiovascular disease
+HP_0000842,Other,phenotype
+MONDO_0004126,CVRM,endocrine system disease
+MONDO_0005184,Oncology,gastrointestinal disease|cancer or benign tumor|endocrine system disease
+MONDO_0005301,Immunology,nervous system disease|immune system disease
+MONDO_0019391,Immunology,"immune system disease|hematologic disease|genetic, familial or congenital disease|nutritional or metabolic disease|musculoskeletal or connective tissue disease|phenotype"
+EFO_0001361,Respiratory,respiratory or thoracic disease|cardiovascular disease|phenotype
+EFO_0003777,CVRM,cardiovascular disease
+MONDO_0005149,CVRM,cardiovascular disease|phenotype
+EFO_0001073,Other,nutritional or metabolic disease|phenotype
+EFO_1000950,Oncology,musculoskeletal or connective tissue disease|cancer or benign tumor
+HP_0000938,Other,phenotype
+MONDO_0002123,Other,nutritional or metabolic disease
+MONDO_0005180,Rare Disease,"nervous system disease|genetic, familial or congenital disease"
+MONDO_0010857,Rare Disease,"nervous system disease|genetic, familial or congenital disease|psychiatric disorder|phenotype"
+EFO_0000274,Immunology,integumentary system disease|immune system disease
+EFO_0000685,Immunology,immune system disease|musculoskeletal or connective tissue disease|phenotype
+EFO_0000699,Immunology,gastrointestinal disease|immune system disease|disorder of visual system
+EFO_0003778,Immunology,immune system disease|musculoskeletal or connective tissue disease|phenotype
+EFO_1000710,Other,integumentary system disease
+MONDO_0005147,CVRM,endocrine system disease|gastrointestinal disease|immune system disease|nutritional or metabolic disease|phenotype
+MONDO_0019080,Other,integumentary system disease|phenotype
+EFO_0001645,CVRM,cardiovascular disease
+EFO_0004277,CVRM,nervous system disease|cardiovascular disease
+EFO_0006834,Other,phenotype
+EFO_0000474,Other,nervous system disease
+EFO_0003913,Other,phenotype
+EFO_0600064,Other,infectious disease
+HP_0002140,CVRM,nervous system disease|cardiovascular disease|phenotype
+HP_0012532,Other,phenotype
+MONDO_0000831,CVRM,cardiovascular disease
+MONDO_0011382,Rare Disease,"genetic, familial or congenital disease|hematologic disease"
+MONDO_0043510,Other,"nervous system disease|injury, poisoning or other complication"
+EFO_0002950,Other,biological_process
+EFO_0003086,Other,urinary system disease
+EFO_0003100,Other,nervous system disease|phenotype
+EFO_0003768,Other,psychiatric disorder|nervous system disease
+EFO_0003890,Other,psychiatric disorder|nervous system disease
+EFO_0003917,Other,phenotype
+EFO_0005323,Other,phenotype
+EFO_0007191,Other,psychiatric disorder|nervous system disease
+EFO_1000971,Other,pregnancy or perinatal disease
+EFO_1001250,Other,musculoskeletal or connective tissue disease
+EFO_1001800,Other,musculoskeletal or connective tissue disease
+EFO_1001884,Rare Disease,"nervous system disease|genetic, familial or congenital disease|psychiatric disorder"
+EFO_1001898,Other,phenotype
+EFO_1001998,Other,nervous system disease
+HP_0000083,Other,phenotype
+HP_0000989,Other,phenotype
+HP_0002018,Other,phenotype
+HP_0003419,Other,phenotype
+MONDO_0004892,Other,disorder of visual system
+MONDO_0005277,CVRM,nervous system disease|cardiovascular disease
+MONDO_0017413,Rare Disease,"genetic, familial or congenital disease|nutritional or metabolic disease"
+Orphanet_294049,Rare Disease,"genetic, familial or congenital disease|musculoskeletal or connective tissue disease"
+EFO_0000384,Immunology,"immune system disease|gastrointestinal disease|genetic, familial or congenital disease"
+EFO_1001486,Rare Disease,"gastrointestinal disease|genetic, familial or congenital disease|endocrine system disease|cancer or benign tumor"
+EFO_0003108,Rare Disease,"nervous system disease|phenotype|genetic, familial or congenital disease"
+MONDO_0005090,Other,psychiatric disorder|nervous system disease
+MONDO_0015643,Rare Disease,"injury, poisoning or other complication|nervous system disease|genetic, familial or congenital disease"
+EFO_0000373,CVRM,cardiovascular disease|phenotype
+EFO_0000537,CVRM,cardiovascular disease|phenotype
+EFO_0004272,Other,phenotype
+MONDO_0004979,Respiratory,phenotype|respiratory or thoracic disease
+EFO_0000195,Other,nutritional or metabolic disease
+EFO_0000284,Oncology,cancer or benign tumor|reproductive system or breast disease
+EFO_0000305,Oncology,integumentary system disease|reproductive system or breast disease|cancer or benign tumor
+EFO_0000313,Oncology,cancer or benign tumor
+EFO_0000407,CVRM,cardiovascular disease|musculoskeletal or connective tissue disease|phenotype
+EFO_0000677,Other,psychiatric disorder|nervous system disease
+EFO_0000707,Oncology,cancer or benign tumor
+EFO_0001063,Other,nervous system disease
+EFO_0002756,Other,biological_process
+EFO_0003756,Other,psychiatric disorder|nervous system disease
+EFO_0003758,Other,psychiatric disorder|nervous system disease|phenotype
+EFO_0003929,Immunology,nervous system disease|immune system disease
+EFO_0003943,Other,"injury, poisoning or other complication|musculoskeletal or connective tissue disease"
+EFO_0004197,CVRM,infectious disease|gastrointestinal disease|endocrine system disease
+EFO_0004229,Other,musculoskeletal or connective tissue disease
+EFO_0004238,Other,nervous system disease
+EFO_0004253,Other,urinary system disease
+EFO_0004264,CVRM,cardiovascular disease
+EFO_0004329,Other,biological_process
+EFO_0004701,Other,psychiatric disorder|nervous system disease
+EFO_0005207,CVRM,"cardiovascular disease|genetic, familial or congenital disease"
+EFO_0005251,CVRM,cardiovascular disease
+EFO_0005279,Other,musculoskeletal or connective tissue disease
+EFO_0005611,Other,psychiatric disorder|nervous system disease
+EFO_0005672,CVRM,cardiovascular disease
+EFO_0006911,Other,phenotype
+EFO_0007149,Immunology,"gastrointestinal disease|immune system disease|genetic, familial or congenital disease"
+EFO_0007405,Other,disorder of visual system|nervous system disease
+EFO_0007490,Other,musculoskeletal or connective tissue disease
+EFO_0008507,Other,musculoskeletal or connective tissue disease|urinary system disease
+EFO_0009276,CVRM,cardiovascular disease
+EFO_0009619,Other,nervous system disease
+EFO_0009620,Other,"injury, poisoning or other complication|musculoskeletal or connective tissue disease"
+EFO_0009676,Other,musculoskeletal or connective tissue disease
+EFO_0009688,Other,gastrointestinal disease
+EFO_0009868,Other,medical procedure
+EFO_0009963,Other,psychiatric disorder|nervous system disease
+EFO_1000899,CVRM,cardiovascular disease|phenotype
+EFO_1000994,CVRM,nervous system disease|cardiovascular disease
+EFO_1001178,Other,musculoskeletal or connective tissue disease
+EFO_1001219,Other,nervous system disease|phenotype
+EFO_1001267,Rare Disease,"genetic, familial or congenital disease|cardiovascular disease"
+EFO_1001434,Other,musculoskeletal or connective tissue disease
+EFO_1001792,Other,"injury, poisoning or other complication|musculoskeletal or connective tissue disease"
+EFO_1001996,Rare Disease,"genetic, familial or congenital disease|hematologic disease"
+HP_0000020,Other,phenotype
+HP_0001907,Other,phenotype
+HP_0002027,Other,phenotype
+HP_0004757,Other,phenotype
+HP_0009926,Other,phenotype
+HP_0030834,Other,phenotype
+HP_0100543,Other,phenotype
+HP_0100607,Other,phenotype
+MONDO_0000728,Other,disorder of visual system
+MONDO_0000812,Other,musculoskeletal or connective tissue disease
+MONDO_0001572,Oncology,musculoskeletal or connective tissue disease|cancer or benign tumor
+MONDO_0002009,Other,psychiatric disorder|nervous system disease
+MONDO_0004976,Other,nervous system disease|phenotype
+MONDO_0005299,CVRM,nervous system disease|cardiovascular disease
+MONDO_0011377,Rare Disease,"genetic, familial or congenital disease|cardiovascular disease"
+MONDO_0043373,Other,nervous system disease
+MONDO_0043797,Other,"nervous system disease|injury, poisoning or other complication|musculoskeletal or connective tissue disease"
+Orphanet_365,Rare Disease,"genetic, familial or congenital disease|nutritional or metabolic disease|cardiovascular disease|musculoskeletal or connective tissue disease"
+Orphanet_79292,Other,nutritional or metabolic disease
+EFO_0000676,Immunology,"immune system disease|integumentary system disease|genetic, familial or congenital disease"
+EFO_0006890,Oncology,cancer or benign tumor
+EFO_0000183,Rare Disease,"hematologic disease|genetic, familial or congenital disease|infectious disease|cancer or benign tumor"
+EFO_0000191,Immunology,"gastrointestinal disease|hematologic disease|immune system disease|cancer or benign tumor|genetic, familial or congenital disease"
+EFO_0000308,Respiratory,respiratory or thoracic disease|cancer or benign tumor
+EFO_0005952,Rare Disease,"hematologic disease|genetic, familial or congenital disease|cancer or benign tumor"
+EFO_1000028,Oncology,nervous system disease|cancer or benign tumor
+EFO_1001951,Oncology,gastrointestinal disease|cancer or benign tumor
+MONDO_0000873,Rare Disease,"hematologic disease|genetic, familial or congenital disease|cancer or benign tumor"
+MONDO_0001023,Rare Disease,"hematologic disease|genetic, familial or congenital disease|cancer or benign tumor"
+MONDO_0002120,CVRM,endocrine system disease|cancer or benign tumor
+MONDO_0002367,Oncology,urinary system disease|cancer or benign tumor
+MONDO_0015459,Respiratory,infectious disease|gastrointestinal disease|respiratory or thoracic disease|cancer or benign tumor
+MONDO_0016700,Oncology,cancer or benign tumor|nervous system disease
+MONDO_0019438,CVRM,nervous system disease|nutritional or metabolic disease|cardiovascular disease|musculoskeletal or connective tissue disease
+MONDO_0020547,Immunology,"immune system disease|injury, poisoning or other complication"
+MONDO_0044881,Oncology,hematologic disease|cancer or benign tumor
+EFO_0000508,Rare Disease,"genetic, familial or congenital disease"
+EFO_1001938,Immunology,"hematologic disease|immune system disease|genetic, familial or congenital disease|cancer or benign tumor"
+MONDO_0004736,Rare Disease,"nutritional or metabolic disease|genetic, familial or congenital disease"
+MONDO_0010311,Rare Disease,"nervous system disease|genetic, familial or congenital disease|musculoskeletal or connective tissue disease|phenotype"
+MONDO_0016239,Rare Disease,"genetic, familial or congenital disease|nutritional or metabolic disease"
+MONDO_0018965,Rare Disease,"urinary system disease|genetic, familial or congenital disease"
+MONDO_0019172,Other,disorder of visual system|phenotype
+MONDO_0019249,Rare Disease,"genetic, familial or congenital disease|nutritional or metabolic disease"
+MONDO_0020121,Rare Disease,"nervous system disease|genetic, familial or congenital disease|musculoskeletal or connective tissue disease|phenotype"
+MONDO_0100135,Rare Disease,"nervous system disease|genetic, familial or congenital disease"
+MONDO_0004670,Immunology,immune system disease|musculoskeletal or connective tissue disease
+EFO_1001249,CVRM,endocrine system disease|gastrointestinal disease
+HP_0001399,Other,phenotype
+MONDO_0018105,Rare Disease,"genetic, familial or congenital disease"
+EFO_0000544,Other,biological_process
+EFO_0002913,Oncology,"integumentary system disease|cancer or benign tumor|hematologic disease|genetic, familial or congenital disease"
+EFO_1001494,Immunology,"immune system disease|integumentary system disease|genetic, familial or congenital disease"
+EFO_0000096,Immunology,"hematologic disease|immune system disease|genetic, familial or congenital disease|cancer or benign tumor"
+EFO_0000638,Other,measurement
+EFO_0000729,Immunology,"gastrointestinal disease|immune system disease|genetic, familial or congenital disease"
+EFO_0001060,Rare Disease,"gastrointestinal disease|genetic, familial or congenital disease|immune system disease"
+EFO_0004212,Other,integumentary system disease
+EFO_0004256,Immunology,nervous system disease|disorder of visual system|immune system disease
+EFO_0004719,Immunology,immune system disease|integumentary system disease
+EFO_0005531,Other,integumentary system disease
+EFO_0005741,Other,infectious disease
+EFO_0005809,Immunology,immune system disease
+EFO_0007359,Immunology,"hematologic disease|immune system disease|genetic, familial or congenital disease|cancer or benign tumor"
+EFO_1000560,Immunology,"hematologic disease|immune system disease|cancer or benign tumor|genetic, familial or congenital disease"
+EFO_1001890,Immunology,immune system disease
+EFO_1002028,Rare Disease,"integumentary system disease|genetic, familial or congenital disease"
+MONDO_0002083,Oncology,cancer or benign tumor
+MONDO_0003864,Immunology,"hematologic disease|immune system disease|genetic, familial or congenital disease|cancer or benign tumor"
+MONDO_0005178,Other,musculoskeletal or connective tissue disease|phenotype
+MONDO_0007576,Oncology,gastrointestinal disease|cancer or benign tumor
+MONDO_0008170,CVRM,endocrine system disease|reproductive system or breast disease|cancer or benign tumor
+MONDO_0009348,Rare Disease,"hematologic disease|genetic, familial or congenital disease|infectious disease|cancer or benign tumor"
+MONDO_0015564,Immunology,"immune system disease|genetic, familial or congenital disease"
+MONDO_0017287,Immunology,immune system disease
+MONDO_0044212,Other,integumentary system disease
+MONDO_0100053,Immunology,immune system disease
+EFO_0000272,Oncology,nervous system disease|cancer or benign tumor
+EFO_0000632,Oncology,nervous system disease|cancer or benign tumor
+DOID_10113,Other,infectious disease
+EFO_0000400,CVRM,endocrine system disease|nutritional or metabolic disease|phenotype
+EFO_0001064,Rare Disease,"genetic, familial or congenital disease"
+EFO_0001065,Other,reproductive system or breast disease
+EFO_0001358,Other,psychiatric disorder|nervous system disease
+EFO_0003015,Other,biological_process|phenotype
+EFO_0003103,Other,infectious disease|urinary system disease
+EFO_0003854,Rare Disease,"musculoskeletal or connective tissue disease|genetic, familial or congenital disease|phenotype"
+EFO_0003855,Oncology,gastrointestinal disease|cancer or benign tumor
+EFO_0004239,CVRM,infectious disease|gastrointestinal disease|endocrine system disease
+EFO_0004262,Other,psychiatric disorder|nervous system disease
+EFO_0004273,Other,musculoskeletal or connective tissue disease
+EFO_0004698,Other,psychiatric disorder|nervous system disease
+EFO_0004826,Immunology,immune system disease
+EFO_0005411,Other,psychiatric disorder|nervous system disease
+EFO_0006788,Other,psychiatric disorder|nervous system disease
+EFO_0007157,Other,infectious disease
+EFO_0007453,Other,pregnancy or perinatal disease|psychiatric disorder|nervous system disease
+EFO_0007462,Other,psychiatric disorder|nervous system disease
+EFO_0008583,CVRM,cardiovascular disease
+EFO_0009692,Respiratory,respiratory or thoracic disease
+EFO_0009708,Other,biological_process
+EFO_0009878,Other,biological_process
+EFO_1001146,Other,nervous system disease
+EFO_1001210,Rare Disease,"genetic, familial or congenital disease|nervous system disease"
+EFO_1001413,Respiratory,infectious disease|respiratory or thoracic disease
+EFO_1001454,Other,psychiatric disorder|nervous system disease
+EFO_1001496,Rare Disease,"urinary system disease|genetic, familial or congenital disease"
+EFO_1001892,Other,psychiatric disorder|nervous system disease
+EFO_1001949,Oncology,gastrointestinal disease|cancer or benign tumor
+HP_0000023,Other,phenotype
+HP_0000360,Other,phenotype
+HP_0000486,Other,phenotype
+HP_0011868,Other,phenotype
+HP_0012076,Other,psychiatric disorder|phenotype
+HP_0030833,Other,phenotype
+HP_0031273,Other,phenotype
+MONDO_0001039,Immunology,gastrointestinal disease|immune system disease|respiratory or thoracic disease
+MONDO_0001780,Other,psychiatric disorder|phenotype
+MONDO_0002492,Other,urinary system disease|phenotype
+MONDO_0003406,Other,psychiatric disorder|nervous system disease
+MONDO_0005129,Rare Disease,"genetic, familial or congenital disease|disorder of visual system|phenotype"
+MONDO_0005148,CVRM,endocrine system disease|nutritional or metabolic disease|phenotype
+MONDO_0007079,Other,psychiatric disorder|nervous system disease
+MONDO_0007606,Rare Disease,"genetic, familial or congenital disease|integumentary system disease|musculoskeletal or connective tissue disease"
+MONDO_0009061,Respiratory,"respiratory or thoracic disease|genetic, familial or congenital disease"
+MONDO_0010382,Rare Disease,"genetic, familial or congenital disease|nervous system disease"
+MONDO_0010383,Rare Disease,"genetic, familial or congenital disease"
+MONDO_0018076,Other,infectious disease
+MONDO_0019079,Rare Disease,"nervous system disease|phenotype|genetic, familial or congenital disease"
+MONDO_0021698,Other,psychiatric disorder
+MP_0001845,Other,phenotype
+EFO_0000094,Immunology,"hematologic disease|immune system disease|genetic, familial or congenital disease|cancer or benign tumor"
+EFO_1000956,Immunology,"hematologic disease|immune system disease|genetic, familial or congenital disease|cancer or benign tumor"
+MONDO_0000870,Oncology,"hematologic disease|cancer or benign tumor|genetic, familial or congenital disease"
+EFO_0000246,Other,measurement
+EFO_0000401,Other,nutritional or metabolic disease|urinary system disease
+EFO_0004228,CVRM,endocrine system disease|gastrointestinal disease
+EFO_0005240,Rare Disease,"nervous system disease|genetic, familial or congenital disease|disorder of visual system"
+EFO_1001068,CVRM,endocrine system disease|gastrointestinal disease|phenotype
+HP_0001258,Other,nervous system disease|phenotype
+HP_0001952,Other,phenotype
+MONDO_0007739,Rare Disease,"nervous system disease|genetic, familial or congenital disease"
+MONDO_0020088,Rare Disease,"genetic, familial or congenital disease|nutritional or metabolic disease|integumentary system disease|phenotype"
+EFO_0003894,Rare Disease,"integumentary system disease|genetic, familial or congenital disease"
+EFO_0003914,CVRM,cardiovascular disease
+EFO_0004149,Other,nervous system disease
+EFO_0004232,Other,gastrointestinal disease|phenotype
+EFO_0004268,CVRM,endocrine system disease|gastrointestinal disease|phenotype
+EFO_0005406,Oncology,gastrointestinal disease|cancer or benign tumor
+HP_0002253,Other,phenotype
+MONDO_0004565,Other,gastrointestinal disease
+EFO_0000398,Immunology,integumentary system disease|musculoskeletal or connective tissue disease|urinary system disease|immune system disease|nervous system disease|phenotype
+EFO_1000637,Respiratory,respiratory or thoracic disease
+EFO_0000211,Rare Disease,"hematologic disease|genetic, familial or congenital disease|cancer or benign tumor"
+EFO_0000621,Oncology,nervous system disease|cancer or benign tumor
+EFO_0000691,Oncology,cancer or benign tumor
+EFO_0000717,Respiratory,"respiratory or thoracic disease|urinary system disease|integumentary system disease|immune system disease|musculoskeletal or connective tissue disease|disorder of visual system|genetic, familial or congenital disease|phenotype"
+EFO_0004251,Rare Disease,"hematologic disease|genetic, familial or congenital disease|cancer or benign tumor"
+EFO_0006861,Oncology,integumentary system disease|reproductive system or breast disease|cancer or benign tumor
+EFO_1000044,Oncology,gastrointestinal disease|cancer or benign tumor|endocrine system disease
+EFO_1000157,Immunology,"immune system disease|nervous system disease|infectious disease|hematologic disease|cancer or benign tumor|genetic, familial or congenital disease"
+EFO_1000613,Oncology,reproductive system or breast disease|cancer or benign tumor
+EFO_1000823,Other,nervous system disease|phenotype
+EFO_1001779,Immunology,"hematologic disease|immune system disease|cancer or benign tumor|genetic, familial or congenital disease|musculoskeletal or connective tissue disease"
+HP_0100727,Other,phenotype
+MONDO_0002691,CVRM,gastrointestinal disease|endocrine system disease|cancer or benign tumor
+MONDO_0004192,Oncology,urinary system disease|cancer or benign tumor
+MONDO_0004986,Oncology,urinary system disease|cancer or benign tumor
+MONDO_0017198,Rare Disease,"genetic, familial or congenital disease|musculoskeletal or connective tissue disease|phenotype"
+EFO_0001663,Oncology,cancer or benign tumor|reproductive system or breast disease
+HP_0100806,Other,phenotype
+EFO_0003095,CVRM,endocrine system disease|gastrointestinal disease
+EFO_0007304,CVRM,infectious disease|gastrointestinal disease|endocrine system disease
+MONDO_0018328,Rare Disease,"nutritional or metabolic disease|phenotype|genetic, familial or congenital disease"
+MONDO_0019245,Rare Disease,"genetic, familial or congenital disease|nutritional or metabolic disease"
+EFO_0000558,CVRM,infectious disease|cardiovascular disease|cancer or benign tumor
+EFO_0000668,Rare Disease,"genetic, familial or congenital disease|pregnancy or perinatal disease|cardiovascular disease|phenotype"
+EFO_0001062,Other,infectious disease
+EFO_0002496,Oncology,cancer or benign tumor|integumentary system disease
+MONDO_0001134,CVRM,cardiovascular disease|phenotype
+MONDO_0002050,Other,psychiatric disorder|nervous system disease
+MONDO_0019623,Rare Disease,"integumentary system disease|genetic, familial or congenital disease|cardiovascular disease"
+EFO_0000681,Oncology,urinary system disease|cancer or benign tumor
+EFO_1000359,CVRM,gastrointestinal disease|endocrine system disease|cancer or benign tumor
+EFO_0001068,CVRM,infectious disease|hematologic disease|endocrine system disease|gastrointestinal disease
+EFO_0003835,Oncology,gastrointestinal disease|cancer or benign tumor
+EFO_0004234,Other,reproductive system or breast disease
+MONDO_0100233,Other,infectious disease
+EFO_0009086,CVRM,cardiovascular disease
+HP_0003124,Other,phenotype
+EFO_0004252,Respiratory,respiratory or thoracic disease|cancer or benign tumor
+MONDO_0044937,Oncology,gastrointestinal disease|cancer or benign tumor
+EFO_0004284,Oncology,cancer or benign tumor
+EFO_0000546,Other,"injury, poisoning or other complication"
+EFO_0003782,Other,nervous system disease
+EFO_0003918,Respiratory,respiratory or thoracic disease|psychiatric disorder|phenotype|nervous system disease
+EFO_0004335,Other,biological_process
+EFO_0007292,Immunology,immune system disease|nervous system disease
+EFO_0008525,Rare Disease,"nervous system disease|genetic, familial or congenital disease"
+EFO_0009602,Other,reproductive system or breast disease
+EFO_1000632,Other,nervous system disease
+MONDO_0009672,Rare Disease,"nervous system disease|phenotype|genetic, familial or congenital disease"
+EFO_0010134,Other,medical procedure
+EFO_1000309,Immunology,"hematologic disease|immune system disease|cancer or benign tumor|genetic, familial or congenital disease|musculoskeletal or connective tissue disease"
+EFO_0000174,Rare Disease,"genetic, familial or congenital disease|cancer or benign tumor"
+EFO_0000637,Oncology,musculoskeletal or connective tissue disease|cancer or benign tumor
+EFO_0002918,Oncology,musculoskeletal or connective tissue disease|cancer or benign tumor
+EFO_0007183,Respiratory,respiratory or thoracic disease|phenotype
+EFO_0007386,Other,infectious disease
+EFO_0007460,Immunology,immune system disease|musculoskeletal or connective tissue disease|phenotype
+EFO_0009429,Other,infectious disease
+EFO_0009448,Respiratory,respiratory or thoracic disease|cancer or benign tumor
+EFO_0009869,Other,phenotype
+EFO_1001359,Rare Disease,"genetic, familial or congenital disease"
+MONDO_0018364,Oncology,cancer or benign tumor|endocrine system disease|reproductive system or breast disease
+Orphanet_53,Rare Disease,"genetic, familial or congenital disease|musculoskeletal or connective tissue disease|disorder of visual system"
+MONDO_0001734,Rare Disease,"nervous system disease|genetic, familial or congenital disease|cancer or benign tumor"
+EFO_0003882,Rare Disease,"musculoskeletal or connective tissue disease|genetic, familial or congenital disease|phenotype"
+EFO_0003931,Other,"injury, poisoning or other complication|musculoskeletal or connective tissue disease"
+EFO_0008506,CVRM,endocrine system disease|phenotype
+EFO_0020989,Other,medical procedure
+EFO_0000200,Immunology,"hematologic disease|immune system disease|genetic, familial or congenital disease|cancer or benign tumor"
+EFO_0000228,Oncology,cancer or benign tumor
+EFO_0000231,Oncology,cancer or benign tumor
+EFO_0000239,CVRM,"endocrine system disease|genetic, familial or congenital disease|nervous system disease|cancer or benign tumor"
+EFO_0000501,CVRM,endocrine system disease|cancer or benign tumor
+EFO_0000503,Oncology,gastrointestinal disease|cancer or benign tumor
+EFO_0000514,Oncology,cancer or benign tumor
+EFO_0000640,Oncology,cancer or benign tumor|urinary system disease
+EFO_0000641,CVRM,endocrine system disease|cancer or benign tumor
+EFO_0001365,Rare Disease,"nervous system disease|genetic, familial or congenital disease|disorder of visual system|phenotype"
+EFO_0002892,CVRM,endocrine system disease|cancer or benign tumor
+EFO_0002916,Oncology,gastrointestinal disease|cancer or benign tumor
+EFO_0002938,Respiratory,gastrointestinal disease|respiratory or thoracic disease|cancer or benign tumor
+EFO_0003016,Oncology,urinary system disease|cancer or benign tumor
+EFO_0003032,Rare Disease,"hematologic disease|genetic, familial or congenital disease|cancer or benign tumor"
+EFO_0003820,Oncology,musculoskeletal or connective tissue disease|cancer or benign tumor
+EFO_0003841,CVRM,endocrine system disease|cancer or benign tumor
+EFO_0003863,Oncology,urinary system disease|cancer or benign tumor
+EFO_0003893,CVRM,endocrine system disease|reproductive system or breast disease|cancer or benign tumor
+EFO_0003897,Oncology,gastrointestinal disease|cancer or benign tumor
+EFO_0004142,Oncology,gastrointestinal disease|cancer or benign tumor
+EFO_0004243,CVRM,endocrine system disease|cancer or benign tumor
+EFO_0005540,CVRM,gastrointestinal disease|endocrine system disease|cancer or benign tumor
+EFO_0005922,Oncology,gastrointestinal disease|cancer or benign tumor
+EFO_0005950,Oncology,cancer or benign tumor
+EFO_0006352,Respiratory,respiratory or thoracic disease|cancer or benign tumor
+EFO_0006859,Oncology,cancer or benign tumor
+EFO_0007331,CVRM,gastrointestinal disease|endocrine system disease|cancer or benign tumor
+EFO_0008528,Oncology,urinary system disease|cancer or benign tumor
+EFO_0009709,Oncology,cancer or benign tumor
+EFO_1000045,CVRM,gastrointestinal disease|endocrine system disease|cancer or benign tumor
+EFO_1000158,Oncology,nervous system disease|cancer or benign tumor
+EFO_1000403,Oncology,disorder of visual system|cancer or benign tumor|nervous system disease
+EFO_1000576,Immunology,immune system disease|endocrine system disease|hematologic disease|cancer or benign tumor
+EFO_1000581,Immunology,immune system disease|endocrine system disease|hematologic disease|cancer or benign tumor
+EFO_1000796,CVRM,cardiovascular disease|endocrine system disease|urinary system disease|cancer or benign tumor
+EFO_1001512,Oncology,cancer or benign tumor|reproductive system or breast disease
+EFO_1001961,CVRM,gastrointestinal disease|endocrine system disease|cancer or benign tumor
+EFO_1001972,Oncology,cancer or benign tumor|musculoskeletal or connective tissue disease
+HP_0001410,Other,phenotype
+HP_0001541,Other,phenotype
+MONDO_0000544,Oncology,cancer or benign tumor
+MONDO_0001187,Oncology,urinary system disease|cancer or benign tumor
+MONDO_0002158,Oncology,reproductive system or breast disease|cancer or benign tumor
+MONDO_0002974,Oncology,reproductive system or breast disease|cancer or benign tumor
+MONDO_0003060,CVRM,gastrointestinal disease|endocrine system disease|cancer or benign tumor
+MONDO_0003193,Oncology,gastrointestinal disease|cancer or benign tumor|endocrine system disease
+MONDO_0003219,Oncology,gastrointestinal disease|cancer or benign tumor
+MONDO_0004669,Oncology,gastrointestinal disease|cancer or benign tumor
+MONDO_0008233,Oncology,cancer or benign tumor
+MONDO_0008667,Rare Disease,"nervous system disease|genetic, familial or congenital disease"
+MONDO_0011962,Oncology,reproductive system or breast disease|cancer or benign tumor
+MONDO_0016216,CVRM,gastrointestinal disease|endocrine system disease|cancer or benign tumor
+MONDO_0016238,Oncology,musculoskeletal or connective tissue disease|cancer or benign tumor
+MONDO_0020634,Oncology,nervous system disease|cancer or benign tumor
+MONDO_0020690,Oncology,nervous system disease|cancer or benign tumor
+MONDO_0021117,Respiratory,respiratory or thoracic disease|cancer or benign tumor
+MONDO_0021637,Oncology,nervous system disease|cancer or benign tumor
+MONDO_0024503,CVRM,gastrointestinal disease|endocrine system disease|cancer or benign tumor
+MONDO_0044926,Respiratory,gastrointestinal disease|respiratory or thoracic disease|cancer or benign tumor
+OBA_VT0000183,Other,measurement
+EFO_0000182,CVRM,gastrointestinal disease|endocrine system disease|cancer or benign tumor
+EFO_0000564,Oncology,musculoskeletal or connective tissue disease|infectious disease|cancer or benign tumor
+EFO_0003825,Oncology,cancer or benign tumor
+EFO_0003830,Other,infectious disease|reproductive system or breast disease
+EFO_1000439,Oncology,gastrointestinal disease|cancer or benign tumor|endocrine system disease
+EFO_1000616,Oncology,phenotype|disorder of visual system|cancer or benign tumor|nervous system disease
+EFO_1000984,Oncology,integumentary system disease|reproductive system or breast disease|cancer or benign tumor
+EFO_1001968,Oncology,cancer or benign tumor
+MONDO_0002928,Oncology,cancer or benign tumor
+MONDO_0004643,Immunology,immune system disease|hematologic disease|musculoskeletal or connective tissue disease|cancer or benign tumor
+Orphanet_145,Oncology,"cancer or benign tumor|endocrine system disease|reproductive system or breast disease|genetic, familial or congenital disease|integumentary system disease"
+EFO_0000266,CVRM,cardiovascular disease
+EFO_0000319,CVRM,cardiovascular disease
+EFO_0002610,Other,psychiatric disorder|nervous system disease
+EFO_0003888,Other,psychiatric disorder|nervous system disease
+EFO_0004319,Other,biological_process
+EFO_0004610,Respiratory,"injury, poisoning or other complication|respiratory or thoracic disease"
+EFO_0005669,CVRM,nervous system disease|cardiovascular disease
+EFO_0005687,Other,nervous system disease|musculoskeletal or connective tissue disease
+EFO_1000809,Other,nervous system disease|disorder of visual system
+EFO_1001022,Other,disorder of visual system|nervous system disease
+EFO_1001923,Other,phenotype
+HP_0001636,Other,phenotype
+HP_0001943,Other,phenotype
+MONDO_0008501,Rare Disease,"disorder of visual system|nervous system disease|genetic, familial or congenital disease"
+MONDO_0018089,Rare Disease,"genetic, familial or congenital disease|cardiovascular disease"
+MONDO_0019180,Rare Disease,"genetic, familial or congenital disease|cardiovascular disease"
+EFO_0000349,Oncology,urinary system disease|cancer or benign tumor
+MONDO_0001056,Oncology,gastrointestinal disease|cancer or benign tumor
+EFO_0000571,Respiratory,respiratory or thoracic disease|cancer or benign tumor
+MONDO_0007039,Rare Disease,"nervous system disease|genetic, familial or congenital disease|cancer or benign tumor"
+EFO_0000224,Immunology,hematologic disease|immune system disease|cancer or benign tumor|musculoskeletal or connective tissue disease
+EFO_0000569,Oncology,musculoskeletal or connective tissue disease|cancer or benign tumor
+EFO_0001642,Oncology,hematologic disease|cancer or benign tumor
+EFO_1001051,Oncology,"integumentary system disease|cancer or benign tumor|hematologic disease|genetic, familial or congenital disease"
+EFO_1001110,CVRM,endocrine system disease|phenotype|reproductive system or breast disease|nervous system disease
+EFO_1001331,Oncology,reproductive system or breast disease|cancer or benign tumor
+EFO_1001901,CVRM,endocrine system disease|cancer or benign tumor
+MONDO_0000430,Rare Disease,"hematologic disease|genetic, familial or congenital disease|cancer or benign tumor"
+MONDO_0002108,CVRM,endocrine system disease|cancer or benign tumor
+MONDO_0019471,Immunology,"infectious disease|hematologic disease|immune system disease|cancer or benign tumor|genetic, familial or congenital disease"
+EFO_0000497,Oncology,musculoskeletal or connective tissue disease|cancer or benign tumor
+EFO_0003865,Oncology,urinary system disease|cancer or benign tumor
+EFO_0009490,Other,"nervous system disease|injury, poisoning or other complication"
+EFO_0009907,Rare Disease,"musculoskeletal or connective tissue disease|genetic, familial or congenital disease|cancer or benign tumor"
+EFO_1000318,Immunology,"hematologic disease|immune system disease|genetic, familial or congenital disease|cancer or benign tumor"
+EFO_1001797,Rare Disease,"hematologic disease|genetic, familial or congenital disease"
+MONDO_0016642,Oncology,nervous system disease|cancer or benign tumor
+EFO_0003073,Immunology,"immune system disease|hematologic disease|cancer or benign tumor|genetic, familial or congenital disease"
+EFO_0000712,CVRM,nervous system disease|cardiovascular disease|phenotype
+EFO_0003907,Other,phenotype
+EFO_0009085,CVRM,cardiovascular disease
+EFO_0009321,CVRM,nutritional or metabolic disease|nervous system disease|disorder of visual system|cardiovascular disease
+EFO_1001157,CVRM,cardiovascular disease|nervous system disease|disorder of visual system
+EFO_0009846,Other,phenotype
+EFO_1000874,Other,infectious disease
+MONDO_0019558,Immunology,immune system disease|musculoskeletal or connective tissue disease
+EFO_0004230,Oncology,reproductive system or breast disease|cancer or benign tumor
+EFO_0006545,Oncology,nervous system disease|cancer or benign tumor
+EFO_1000355,Respiratory,gastrointestinal disease|respiratory or thoracic disease|cancer or benign tumor
+EFO_1000601,Oncology,cancer or benign tumor
+MONDO_0041052,Other,nervous system disease|infectious disease|phenotype
+EFO_0000551,CVRM,nervous system disease|cardiovascular disease
+EFO_1000025,Other,urinary system disease
+MONDO_0100326,Rare Disease,"hematologic disease|genetic, familial or congenital disease"
+EFO_0000759,Oncology,musculoskeletal or connective tissue disease|cancer or benign tumor
+EFO_0003899,Other,musculoskeletal or connective tissue disease
+EFO_1000941,Other,musculoskeletal or connective tissue disease
+HP_0012227,Other,phenotype
+EFO_0000694,Respiratory,respiratory or thoracic disease|infectious disease
+EFO_0003106,Respiratory,infectious disease|respiratory or thoracic disease|phenotype
+EFO_0003770,CVRM,nutritional or metabolic disease|nervous system disease|disorder of visual system|cardiovascular disease
+EFO_0003827,CVRM,phenotype|cardiovascular disease
+EFO_0003876,CVRM,cardiovascular disease
+EFO_0004236,Other,urinary system disease|phenotype
+EFO_0004278,CVRM,cardiovascular disease
+EFO_0005762,Other,phenotype
+EFO_0007224,Other,infectious disease
+EFO_0007406,Other,infectious disease|gastrointestinal disease
+EFO_0007486,Respiratory,respiratory or thoracic disease|musculoskeletal or connective tissue disease
+EFO_0007512,Other,integumentary system disease|infectious disease
+EFO_0008585,CVRM,cardiovascular disease
+EFO_0009492,CVRM,cardiovascular disease
+EFO_0009760,CVRM,nutritional or metabolic disease|nervous system disease|disorder of visual system|cardiovascular disease
+EFO_0010721,Other,medical procedure
+EFO_1001375,CVRM,cardiovascular disease
+EFO_1001993,Immunology,"immune system disease|musculoskeletal or connective tissue disease|disorder of visual system|genetic, familial or congenital disease|phenotype"
+EFO_1002023,Oncology,infectious disease|integumentary system disease|cancer or benign tumor
+HP_0002571,Other,phenotype
+HP_0012390,Other,phenotype
+HP_0012531,Other,phenotype
+HP_0031217,Other,phenotype
+HP_0200042,Other,phenotype
+MONDO_0004857,Immunology,immune system disease|musculoskeletal or connective tissue disease|phenotype
+MONDO_0010679,Rare Disease,"nervous system disease|genetic, familial or congenital disease|musculoskeletal or connective tissue disease|phenotype"
+MONDO_0043839,Other,integumentary system disease
+EFO_0003047,CVRM,infectious disease|gastrointestinal disease|endocrine system disease
+EFO_1000760,Other,integumentary system disease
+HP_0012199,Other,phenotype
+EFO_0008572,Other,nutritional or metabolic disease
+MONDO_0013730,Immunology,"immune system disease|injury, poisoning or other complication"
+EFO_1000294,Oncology,integumentary system disease|reproductive system or breast disease|cancer or benign tumor
+EFO_1001480,Oncology,gastrointestinal disease|cancer or benign tumor
+DOID_13406,Respiratory,musculoskeletal or connective tissue disease|respiratory or thoracic disease
+EFO_0001072,Other,phenotype
+EFO_0003767,Immunology,"immune system disease|gastrointestinal disease|genetic, familial or congenital disease"
+EFO_0003780,Immunology,immune system disease|urinary system disease|nervous system disease|integumentary system disease|cardiovascular disease
+EFO_0003818,Respiratory,respiratory or thoracic disease
+EFO_0003834,Immunology,immune system disease|musculoskeletal or connective tissue disease
+EFO_0003840,Immunology,nervous system disease|immune system disease
+EFO_0003956,Respiratory,respiratory or thoracic disease|immune system disease
+EFO_0004192,Rare Disease,"integumentary system disease|genetic, familial or congenital disease|phenotype"
+EFO_0004274,Other,nutritional or metabolic disease|musculoskeletal or connective tissue disease|phenotype
+EFO_0005774,Other,nervous system disease
+EFO_0005854,Respiratory,respiratory or thoracic disease|immune system disease
+EFO_0007444,CVRM,infectious disease|hematologic disease|endocrine system disease|gastrointestinal disease
+EFO_0007541,Respiratory,infectious disease|respiratory or thoracic disease|phenotype
+EFO_0008517,Other,integumentary system disease
+EFO_0010284,Other,gastrointestinal disease
+EFO_1000694,Other,integumentary system disease
+EFO_1000726,Other,integumentary system disease
+EFO_1000782,Respiratory,"respiratory or thoracic disease|injury, poisoning or other complication"
+EFO_1001361,Immunology,"immune system disease|musculoskeletal or connective tissue disease|disorder of visual system|genetic, familial or congenital disease|phenotype"
+EFO_1001904,Other,phenotype
+HP_0000964,Other,phenotype
+HP_0001397,Other,phenotype
+HP_0001643,Other,phenotype
+MONDO_0002406,Other,integumentary system disease
+MONDO_0004784,Respiratory,respiratory or thoracic disease|phenotype|immune system disease
+MONDO_0007078,CVRM,"endocrine system disease|genetic, familial or congenital disease|nutritional or metabolic disease|urinary system disease|musculoskeletal or connective tissue disease|phenotype"
+MONDO_0008867,CVRM,endocrine system disease|gastrointestinal disease|phenotype
+MONDO_0019312,Rare Disease,"genetic, familial or congenital disease|hematologic disease|nutritional or metabolic disease|integumentary system disease|phenotype"
+MONDO_0026045,Other,integumentary system disease
+MONDO_0100130,Respiratory,respiratory or thoracic disease
+Orphanet_665,CVRM,"endocrine system disease|urinary system disease|genetic, familial or congenital disease|phenotype|integumentary system disease|musculoskeletal or connective tissue disease|disorder of visual system"
+HP_0030666,Other,phenotype
+EFO_0000294,Oncology,urinary system disease|cancer or benign tumor
+EFO_0001668,Other,infectious disease
+EFO_0003085,Oncology,musculoskeletal or connective tissue disease|cancer or benign tumor
+EFO_0003968,CVRM,cardiovascular disease|cancer or benign tumor
+EFO_1002027,Other,musculoskeletal or connective tissue disease|phenotype
+MONDO_0044704,Respiratory,gastrointestinal disease|respiratory or thoracic disease|cancer or benign tumor
+EFO_0000404,Respiratory,"respiratory or thoracic disease|urinary system disease|integumentary system disease|immune system disease|musculoskeletal or connective tissue disease|disorder of visual system|genetic, familial or congenital disease|phenotype"
+EFO_0003966,Other,disorder of visual system
+EFO_0004190,Other,disorder of visual system
+EFO_1001069,CVRM,disorder of visual system|cardiovascular disease|phenotype
+MONDO_0005041,Other,disorder of visual system
+EFO_0000348,Oncology,cancer or benign tumor
+EFO_0005537,Oncology,integumentary system disease|reproductive system or breast disease|cancer or benign tumor
+EFO_0009001,Immunology,"hematologic disease|immune system disease|genetic, familial or congenital disease|cancer or benign tumor"
+EFO_1000251,Oncology,cancer or benign tumor|reproductive system or breast disease
+MONDO_0002087,Oncology,gastrointestinal disease|cancer or benign tumor
+MONDO_0008678,Rare Disease,"nervous system disease|genetic, familial or congenital disease"
+EFO_1001050,Other,nervous system disease|biological_process|nutritional or metabolic disease
+EFO_0004280,Other,nervous system disease
+EFO_0004718,CVRM,nervous system disease|psychiatric disorder|cardiovascular disease|phenotype
+EFO_0004888,Other,phenotype
+EFO_0010702,Other,psychiatric disorder
+EFO_1000904,Other,nervous system disease
+HP_0001824,Other,phenotype
+MONDO_0005351,Other,psychiatric disorder|nutritional or metabolic disease|nervous system disease
+HP_0002019,Other,phenotype
+HP_0000992,Other,phenotype
+EFO_0002428,Immunology,immune system disease|hematologic disease|musculoskeletal or connective tissue disease|cancer or benign tumor
+EFO_0000464,Respiratory,respiratory or thoracic disease
+EFO_0000618,Other,nervous system disease
+EFO_0000649,Other,gastrointestinal disease|musculoskeletal or connective tissue disease
+EFO_0000684,Respiratory,respiratory or thoracic disease
+EFO_0000706,Immunology,immune system disease|musculoskeletal or connective tissue disease
+EFO_0001074,Other,nutritional or metabolic disease|phenotype
+EFO_0001075,Oncology,cancer or benign tumor|endocrine system disease|reproductive system or breast disease
+EFO_0002460,Other,phenotype
+EFO_0002581,Other,medical procedure
+EFO_0003938,Other,gastrointestinal disease
+EFO_0003964,Other,"injury, poisoning or other complication|musculoskeletal or connective tissue disease"
+EFO_0004193,Oncology,cancer or benign tumor|integumentary system disease
+EFO_0004242,Rare Disease,"nervous system disease|psychiatric disorder|genetic, familial or congenital disease"
+EFO_0004263,Other,nervous system disease
+EFO_0004607,Other,gastrointestinal disease|integumentary system disease
+EFO_0007443,Other,pregnancy or perinatal disease|reproductive system or breast disease
+EFO_0009520,Other,medical procedure
+EFO_0009560,Other,disorder of ear|nervous system disease|infectious disease
+EFO_0009610,Rare Disease,"genetic, familial or congenital disease|musculoskeletal or connective tissue disease"
+EFO_0009625,Other,phenotype
+EFO_0009854,Other,psychiatric disorder|nervous system disease
+EFO_1001158,CVRM,"nervous system disease|disorder of visual system|cardiovascular disease|genetic, familial or congenital disease"
+EFO_1001466,Immunology,disorder of visual system|immune system disease|endocrine system disease|phenotype
+EFO_1002048,Other,urinary system disease
+GO_0070527,Other,biological_process
+HP_0002745,Other,phenotype
+HP_0004936,Other,phenotype
+HP_0008419,Other,phenotype
+HP_0011649,Other,phenotype
+HP_0012228,Other,phenotype
+MONDO_0000935,Respiratory,respiratory or thoracic disease|cancer or benign tumor
+MONDO_0002363,Oncology,cancer or benign tumor
+MONDO_0002715,Oncology,reproductive system or breast disease|cancer or benign tumor
+MONDO_0003005,Other,nervous system disease|disorder of visual system|phenotype
+MONDO_0004247,Other,gastrointestinal disease|integumentary system disease
+MONDO_0008040,Immunology,immune system disease|hematologic disease|musculoskeletal or connective tissue disease|cancer or benign tumor
+MONDO_0010870,Rare Disease,"nervous system disease|genetic, familial or congenital disease|musculoskeletal or connective tissue disease|phenotype"
+MONDO_0011705,Oncology,cancer or benign tumor
+MONDO_0012511,Rare Disease,"genetic, familial or congenital disease|reproductive system or breast disease"
+MONDO_0016064,Rare Disease,"genetic, familial or congenital disease|phenotype|musculoskeletal or connective tissue disease"
+MONDO_0018305,Rare Disease,"genetic, familial or congenital disease|hematologic disease|immune system disease"
+MONDO_0018975,Rare Disease,"genetic, familial or congenital disease|nervous system disease|cancer or benign tumor"
+MONDO_0024290,Other,psychiatric disorder
+MONDO_0024475,Oncology,cancer or benign tumor
+MONDO_0024880,Oncology,cancer or benign tumor
+MONDO_0042487,Oncology,cancer or benign tumor|reproductive system or breast disease
+Orphanet_891,Rare Disease,"genetic, familial or congenital disease|disorder of visual system"
+EFO_0007328,Respiratory,infectious disease|respiratory or thoracic disease
+EFO_0003877,Respiratory,respiratory or thoracic disease|psychiatric disorder|phenotype|nervous system disease
+MONDO_0004579,Other,nervous system disease|disorder of visual system
+MONDO_0004731,Respiratory,respiratory or thoracic disease|psychiatric disorder|phenotype|nervous system disease
+Orphanet_37553,CVRM,"cardiovascular disease|genetic, familial or congenital disease|musculoskeletal or connective tissue disease"
+EFO_0004895,Rare Disease,"nervous system disease|genetic, familial or congenital disease|psychiatric disorder"
+EFO_0008533,Other,gastrointestinal disease
+EFO_0009373,Other,integumentary system disease|phenotype
+EFO_1000391,Oncology,cancer or benign tumor|respiratory or thoracic disease
+MONDO_0008223,Rare Disease,"nervous system disease|nutritional or metabolic disease|genetic, familial or congenital disease"
+MONDO_0019091,Respiratory,respiratory or thoracic disease
+EFO_0000279,Rare Disease,"genetic, familial or congenital disease|reproductive system or breast disease|phenotype"
+EFO_0000701,Other,integumentary system disease
+EFO_0003963,Other,phenotype
+EFO_0009259,Oncology,integumentary system disease|cancer or benign tumor
+EFO_1000690,Other,integumentary system disease
+HP_0001065,Other,phenotype
+MONDO_0017265,Rare Disease,"integumentary system disease|genetic, familial or congenital disease"
+MONDO_0019269,Other,integumentary system disease
+MONDO_0021058,Oncology,cancer or benign tumor
+EFO_0002939,Oncology,cancer or benign tumor|nervous system disease
+EFO_0004992,Other,disorder of ear|nervous system disease
+EFO_0005235,Oncology,nervous system disease|cancer or benign tumor
+EFO_0007416,CVRM,gastrointestinal disease|endocrine system disease|cancer or benign tumor
+EFO_1000407,Respiratory,respiratory or thoracic disease|nervous system disease|cancer or benign tumor
+EFO_1001471,Oncology,integumentary system disease|cancer or benign tumor
+HP_0030680,Other,phenotype
+MONDO_0001920,Other,disorder of ear|nervous system disease
+MONDO_0003960,CVRM,endocrine system disease|respiratory or thoracic disease|cancer or benign tumor
+MONDO_0019472,Rare Disease,"hematologic disease|infectious disease|genetic, familial or congenital disease|cancer or benign tumor"
+MONDO_0021364,Respiratory,gastrointestinal disease|respiratory or thoracic disease|cancer or benign tumor
+EFO_0007140,Respiratory,respiratory or thoracic disease|immune system disease|infectious disease
+EFO_0007141,Immunology,disorder of visual system|immune system disease|phenotype
+EFO_0007425,Immunology,immune system disease
+EFO_1001467,Immunology,"hematologic disease|immune system disease|genetic, familial or congenital disease|cardiovascular disease|musculoskeletal or connective tissue disease"
+MONDO_0005271,Immunology,immune system disease
+EFO_1000209,Oncology,musculoskeletal or connective tissue disease|nervous system disease|cancer or benign tumor
+HP_0100526,Other,phenotype
+EFO_0000278,CVRM,endocrine system disease|phenotype
+EFO_1000906,Other,disorder of visual system|phenotype
+MONDO_0015277,CVRM,endocrine system disease|cancer or benign tumor
+EFO_0000275,CVRM,cardiovascular disease
+EFO_0003911,CVRM,cardiovascular disease
+EFO_0005239,CVRM,cardiovascular disease
+HP_0001873,Other,phenotype
+HP_0009588,Other,phenotype
+MONDO_0002046,Other,psychiatric disorder
+MONDO_0004985,Other,psychiatric disorder|nervous system disease
+EFO_0000765,Immunology,"immune system disease|infectious disease|genetic, familial or congenital disease|reproductive system or breast disease"
+EFO_0002687,Other,"injury, poisoning or other complication"
+EFO_0005204,Other,psychiatric disorder|nutritional or metabolic disease|nervous system disease
+EFO_0007312,Immunology,infectious disease|immune system disease|reproductive system or breast disease
+EFO_0007430,Other,"injury, poisoning or other complication"
+EFO_0007442,Other,pregnancy or perinatal disease|reproductive system or breast disease
+EFO_0009006,CVRM,endocrine system disease|reproductive system or breast disease
+EFO_0009682,Other,pregnancy or perinatal disease
+EFO_0009784,Other,nervous system disease|disorder of visual system
+EFO_1000645,CVRM,"cardiovascular disease|genetic, familial or congenital disease|nervous system disease"
+EFO_1001366,Other,phenotype
+HP_0008209,Other,phenotype
+MONDO_0007309,Rare Disease,"nervous system disease|genetic, familial or congenital disease|phenotype"
+MONDO_0010888,Other,reproductive system or breast disease
+MONDO_0018896,Immunology,immune system disease|hematologic disease|phenotype
+MONDO_0022394,Other,reproductive system or breast disease
+EFO_0000713,CVRM,nervous system disease|cardiovascular disease
+EFO_0009267,Other,psychiatric disorder|nervous system disease|phenotype
+EFO_0005203,Other,psychiatric disorder|nutritional or metabolic disease|nervous system disease
+HP_0000739,Other,phenotype
+HP_0012378,Other,phenotype
+MONDO_0001583,Other,nervous system disease|phenotype
+MONDO_0004456,Other,psychiatric disorder
+MONDO_0004567,Other,gastrointestinal disease
+MONDO_0013189,Rare Disease,"psychiatric disorder|genetic, familial or congenital disease"
+MONDO_0024327,Other,urinary system disease
+EFO_0011023,Other,"nervous system disease|injury, poisoning or other complication"
+MONDO_0008119,Rare Disease,"genetic, familial or congenital disease|nervous system disease|psychiatric disorder|phenotype"
+MONDO_0008458,Rare Disease,"genetic, familial or congenital disease|nervous system disease|psychiatric disorder|phenotype"
+MONDO_0017276,Rare Disease,"genetic, familial or congenital disease|nervous system disease|psychiatric disorder|phenotype"
+MONDO_0044903,Immunology,phenotype|immune system disease|hematologic disease|musculoskeletal or connective tissue disease|cancer or benign tumor
+Orphanet_273,CVRM,"endocrine system disease|genetic, familial or congenital disease|disorder of visual system|musculoskeletal or connective tissue disease|cardiovascular disease|reproductive system or breast disease"
+Orphanet_733,Rare Disease,"gastrointestinal disease|genetic, familial or congenital disease|cancer or benign tumor"
+EFO_0004244,Respiratory,respiratory or thoracic disease
+MONDO_0018542,Rare Disease,"genetic, familial or congenital disease|hematologic disease|immune system disease"
+EFO_1001905,Other,biological_process
+MONDO_0015626,Rare Disease,"nervous system disease|phenotype|genetic, familial or congenital disease"
+EFO_0006792,Other,psychiatric disorder|nervous system disease|nutritional or metabolic disease|phenotype
+MONDO_0002491,Other,psychiatric disorder
+EFO_0003875,CVRM,cardiovascular disease
+GO_0006629,Other,biological_process
+MONDO_0002525,Rare Disease,"genetic, familial or congenital disease|nutritional or metabolic disease"
+EFO_0700100,CVRM,cardiovascular disease
+EFO_0000309,Immunology,"hematologic disease|immune system disease|infectious disease|cancer or benign tumor|genetic, familial or congenital disease"
+EFO_0000333,Rare Disease,"musculoskeletal or connective tissue disease|genetic, familial or congenital disease|cancer or benign tumor"
+EFO_0000365,Oncology,gastrointestinal disease|cancer or benign tumor
+EFO_0000466,Oncology,reproductive system or breast disease|cancer or benign tumor
+EFO_0000556,Other,phenotype
+EFO_0000760,Oncology,nervous system disease|cancer or benign tumor
+EFO_0003870,CVRM,nervous system disease|cardiovascular disease
+EFO_0004265,CVRM,cardiovascular disease
+EFO_0006888,CVRM,cardiovascular disease|phenotype
+EFO_0006927,Other,hematologic disease|phenotype
+EFO_0009661,Respiratory,respiratory or thoracic disease
+EFO_1000464,Oncology,cancer or benign tumor
+EFO_1000630,Immunology,"gastrointestinal disease|hematologic disease|immune system disease|cancer or benign tumor|genetic, familial or congenital disease"
+EFO_1000660,Other,integumentary system disease
+EFO_1000697,Other,integumentary system disease
+EFO_1000764,Other,integumentary system disease|phenotype
+EFO_1000811,Other,disorder of visual system|phenotype
+HP_0000988,Other,phenotype
+MONDO_0001422,CVRM,endocrine system disease
+MONDO_0002245,Other,hematologic disease
+MONDO_0003478,Oncology,cancer or benign tumor|nervous system disease
+MONDO_0008094,CVRM,"cardiovascular disease|integumentary system disease|genetic, familial or congenital disease"
+MONDO_0008280,Rare Disease,"genetic, familial or congenital disease|cancer or benign tumor"
+MONDO_0009723,Rare Disease,"nervous system disease|genetic, familial or congenital disease|phenotype|nutritional or metabolic disease"
+MONDO_0015974,Immunology,"immune system disease|genetic, familial or congenital disease|phenotype"
+MONDO_0016236,CVRM,cardiovascular disease|cancer or benign tumor
+MONDO_0016471,Rare Disease,"integumentary system disease|genetic, familial or congenital disease"
+MONDO_0017634,Other,disorder of visual system|phenotype
+MONDO_0019338,Other,musculoskeletal or connective tissue disease
+MONDO_0021054,Oncology,musculoskeletal or connective tissue disease|cancer or benign tumor
+MONDO_0850302,Oncology,nervous system disease|cancer or benign tumor
+Orphanet_46724,Rare Disease,"genetic, familial or congenital disease"
+Orphanet_848,Rare Disease,"hematologic disease|urinary system disease|genetic, familial or congenital disease"
+HP_0002637,Other,phenotype
+EFO_1001927,Oncology,cancer or benign tumor
+EFO_1001950,Oncology,gastrointestinal disease|cancer or benign tumor
+EFO_0000771,Other,infectious disease
+EFO_1002004,Immunology,immune system disease
+MONDO_0021739,Other,integumentary system disease
+EFO_0000432,Oncology,cancer or benign tumor|integumentary system disease|reproductive system or breast disease
+EFO_0000763,Other,infectious disease
+EFO_0004714,Other,phenotype
+EFO_0006318,Oncology,integumentary system disease|reproductive system or breast disease|cancer or benign tumor
+EFO_0007532,Oncology,reproductive system or breast disease|cancer or benign tumor
+EFO_0007624,Other,biological_process
+EFO_1000649,Oncology,integumentary system disease|reproductive system or breast disease|cancer or benign tumor
+EFO_1000650,Oncology,integumentary system disease|reproductive system or breast disease|cancer or benign tumor
+EFO_1001485,CVRM,"endocrine system disease|genetic, familial or congenital disease|phenotype|reproductive system or breast disease|nervous system disease"
+GO_0007613,Other,biological_process
+GO_0042697,Other,biological_process
+MONDO_0000088,CVRM,endocrine system disease|reproductive system or breast disease
+MONDO_0002134,Other,reproductive system or breast disease
+MONDO_0002146,CVRM,endocrine system disease|reproductive system or breast disease
+MONDO_0018919,Rare Disease,"genetic, familial or congenital disease|musculoskeletal or connective tissue disease|phenotype"
+MONDO_0021259,Oncology,reproductive system or breast disease|cancer or benign tumor
+MONDO_0100234,CVRM,"cardiovascular disease|genetic, familial or congenital disease|phenotype"
+EFO_0000612,CVRM,cardiovascular disease
+EFO_0001416,Oncology,cancer or benign tumor|reproductive system or breast disease
+MONDO_0001657,Oncology,nervous system disease|cancer or benign tumor
+MONDO_0019019,Rare Disease,"genetic, familial or congenital disease|musculoskeletal or connective tissue disease|phenotype"
+EFO_0003096,Rare Disease,"nervous system disease|genetic, familial or congenital disease|psychiatric disorder|phenotype"
+EFO_0004699,Other,biological_process
+EFO_0000479,Immunology,"hematologic disease|immune system disease|genetic, familial or congenital disease|cancer or benign tumor|musculoskeletal or connective tissue disease"
+EFO_0009387,Other,nervous system disease
+MONDO_0004064,Oncology,phenotype|disorder of visual system|nervous system disease|cancer or benign tumor
+MONDO_0010726,Rare Disease,"nervous system disease|psychiatric disorder|genetic, familial or congenital disease"
+MONDO_0012589,Rare Disease,"genetic, familial or congenital disease"
+EFO_0009851,Other,biological_process
+EFO_0000557,Immunology,integumentary system disease|musculoskeletal or connective tissue disease|urinary system disease|immune system disease|nervous system disease|respiratory or thoracic disease|phenotype
+EFO_0000783,Immunology,immune system disease|musculoskeletal or connective tissue disease|phenotype
+EFO_0002609,Immunology,immune system disease|musculoskeletal or connective tissue disease|phenotype
+EFO_0005629,Immunology,"immune system disease|gastrointestinal disease|genetic, familial or congenital disease"
+EFO_1001034,Other,reproductive system or breast disease
+EFO_1001209,CVRM,urinary system disease|nervous system disease|cardiovascular disease|phenotype
+EFO_1001857,Respiratory,"urinary system disease|disorder of visual system|nervous system disease|respiratory or thoracic disease|cardiovascular disease|genetic, familial or congenital disease|phenotype"
+HP_0001894,Other,phenotype
+HP_0003326,Other,phenotype
+MONDO_0001707,CVRM,musculoskeletal or connective tissue disease|cardiovascular disease
+MONDO_0018866,Immunology,"immune system disease|musculoskeletal or connective tissue disease|genetic, familial or congenital disease|nervous system disease"
+MONDO_0019111,Rare Disease,"genetic, familial or congenital disease|hematologic disease"
+Orphanet_51,Rare Disease,"genetic, familial or congenital disease"
+EFO_0000658,Oncology,nervous system disease|cancer or benign tumor
+EFO_0001376,Oncology,cancer or benign tumor
+EFO_0002626,Immunology,immune system disease|endocrine system disease|hematologic disease|cancer or benign tumor
+EFO_0004260,Other,musculoskeletal or connective tissue disease
+EFO_1000729,Other,infectious disease|integumentary system disease
+HP_0001880,Other,phenotype
+MONDO_0002676,Oncology,musculoskeletal or connective tissue disease|cancer or benign tumor
+MONDO_0011934,Oncology,integumentary system disease|musculoskeletal or connective tissue disease|cancer or benign tumor
+EFO_0021520,Immunology,"immune system disease|hematologic disease|genetic, familial or congenital disease|cancer or benign tumor"
+EFO_0000660,CVRM,"endocrine system disease|genetic, familial or congenital disease|reproductive system or breast disease"
+MONDO_0001437,Respiratory,respiratory or thoracic disease
+Orphanet_264675,Rare Disease,"genetic, familial or congenital disease|respiratory or thoracic disease"
+EFO_0004255,Other,urinary system disease
+EFO_0004599,Immunology,immune system disease
+EFO_0005297,Immunology,immune system disease|urinary system disease|cardiovascular disease|phenotype
+EFO_0007316,Other,infectious disease
+EFO_0008518,Other,musculoskeletal or connective tissue disease|phenotype
+EFO_1001148,Other,musculoskeletal or connective tissue disease
+EFO_1001231,Other,disorder of visual system|phenotype
+MONDO_0002898,Oncology,integumentary system disease|cancer or benign tumor
+MONDO_0019469,Immunology,"immune system disease|hematologic disease|cancer or benign tumor|genetic, familial or congenital disease"
+MONDO_0020546,Immunology,"immune system disease|injury, poisoning or other complication"
+EFO_0000342,CVRM,endocrine system disease|phenotype
+EFO_0002499,Oncology,cancer or benign tumor|nervous system disease
+EFO_0003898,Immunology,immune system disease|musculoskeletal or connective tissue disease|phenotype
+EFO_0005628,Immunology,"immune system disease|gastrointestinal disease|genetic, familial or congenital disease"
+HP_0001871,Other,phenotype
+MONDO_0003196,Oncology,gastrointestinal disease|cancer or benign tumor
+MONDO_0006412,Immunology,hematologic disease|immune system disease
+MONDO_0015760,Rare Disease,"hematologic disease|genetic, familial or congenital disease|cancer or benign tumor"
+MONDO_0017816,CVRM,nervous system disease|nutritional or metabolic disease|cardiovascular disease|musculoskeletal or connective tissue disease
+MONDO_0017987,Other,nervous system disease
+MONDO_0043458,Other,"injury, poisoning or other complication"
+MONDO_0002236,Oncology,disorder of visual system|nervous system disease|cancer or benign tumor
+EFO_0004237,Immunology,immune system disease|endocrine system disease|phenotype
+EFO_0003817,Respiratory,respiratory or thoracic disease|cancer or benign tumor
+EFO_0003826,Other,gastrointestinal disease
+EFO_0003859,Oncology,reproductive system or breast disease|cancer or benign tumor
+EFO_0003868,Oncology,gastrointestinal disease|cancer or benign tumor
+EFO_0003891,CVRM,endocrine system disease|gastrointestinal disease|cancer or benign tumor
+EFO_0005088,CVRM,endocrine system disease|reproductive system or breast disease|cancer or benign tumor
+EFO_0005543,Oncology,nervous system disease|cancer or benign tumor
+EFO_0007352,Immunology,hematologic disease|immune system disease
+EFO_0007362,Oncology,cancer or benign tumor
+EFO_0008524,CVRM,endocrine system disease|cancer or benign tumor
+EFO_1000566,CVRM,endocrine system disease|cancer or benign tumor|reproductive system or breast disease
+EFO_1000595,CVRM,endocrine system disease|cancer or benign tumor
+EFO_1001094,Oncology,reproductive system or breast disease|cancer or benign tumor
+MONDO_0000521,Oncology,gastrointestinal disease|cancer or benign tumor
+MONDO_0001325,Oncology,reproductive system or breast disease|cancer or benign tumor
+MONDO_0001528,Oncology,reproductive system or breast disease|cancer or benign tumor
+MONDO_0003000,Oncology,nervous system disease|cancer or benign tumor
+MONDO_0003751,Oncology,cancer or benign tumor
+MONDO_0003890,Oncology,urinary system disease|cancer or benign tumor
+MONDO_0005411,CVRM,gastrointestinal disease|endocrine system disease|cancer or benign tumor
+MONDO_0015540,Immunology,hematologic disease|immune system disease
+MONDO_0019473,Rare Disease,"hematologic disease|genetic, familial or congenital disease|cancer or benign tumor"
+MONDO_0021043,Oncology,cancer or benign tumor
+MONDO_0021148,Oncology,reproductive system or breast disease|cancer or benign tumor
+MONDO_0021656,Oncology,cancer or benign tumor
+EFO_0004566,Other,phenotype
+MONDO_0001627,Other,psychiatric disorder|nervous system disease|phenotype
+MONDO_0021107,Other,psychiatric disorder|nervous system disease
+EFO_0004247,Other,psychiatric disorder|nervous system disease
+EFO_1000781,Other,urinary system disease
+Orphanet_98757,Rare Disease,"genetic, familial or congenital disease|nervous system disease|psychiatric disorder|phenotype"
+EFO_0000255,Rare Disease,"hematologic disease|genetic, familial or congenital disease|cancer or benign tumor"
+HP_0003750,Other,phenotype
+EFO_0009662,Oncology,infectious disease|integumentary system disease|cancer or benign tumor
+HP_0012393,Other,phenotype
+MONDO_0008840,Rare Disease,"genetic, familial or congenital disease|endocrine system disease|immune system disease|nervous system disease|reproductive system or breast disease|phenotype"
+MONDO_0010006,Rare Disease,"disorder of visual system|nervous system disease|genetic, familial or congenital disease|psychiatric disorder|phenotype|nutritional or metabolic disease"
+MONDO_0010100,Rare Disease,"disorder of visual system|nervous system disease|genetic, familial or congenital disease|phenotype|psychiatric disorder|nutritional or metabolic disease"
+MONDO_0017720,Rare Disease,"nervous system disease|genetic, familial or congenital disease|nutritional or metabolic disease"
+MONDO_0018982,Rare Disease,"genetic, familial or congenital disease|hematologic disease|immune system disease|nutritional or metabolic disease"
+MONDO_0019139,Other,hematologic disease
+EFO_0008510,Other,infectious disease
+EFO_0009608,Other,gastrointestinal disease
+HP_0000738,Other,phenotype
+HP_0002315,Other,phenotype
+HP_0012167,Other,phenotype
+HP_0025268,Other,phenotype
+MONDO_0002025,Other,psychiatric disorder
+EFO_0005676,CVRM,endocrine system disease|immune system disease|gastrointestinal disease
+EFO_1000784,CVRM,cardiovascular disease|phenotype
+MONDO_0003783,Immunology,hematologic disease|immune system disease
+EFO_1000948,Other,gastrointestinal disease
+EFO_0004683,Rare Disease,"nervous system disease|genetic, familial or congenital disease|disorder of visual system|phenotype"
+EFO_0007143,Rare Disease,"gastrointestinal disease|genetic, familial or congenital disease|cancer or benign tumor"
+EFO_0007187,Immunology,immune system disease|integumentary system disease
+EFO_1000965,Immunology,immune system disease
+MONDO_0016537,Immunology,"immune system disease|genetic, familial or congenital disease"
+EFO_0003925,Other,biological_process
+EFO_0010445,Other,psychiatric disorder
+EFO_1001917,Other,psychiatric disorder|nervous system disease
+HP_0010992,Other,phenotype
+MONDO_0008300,Rare Disease,"nervous system disease|genetic, familial or congenital disease|endocrine system disease|phenotype|reproductive system or breast disease"
+MONDO_0011184,Rare Disease,"nervous system disease|genetic, familial or congenital disease"
+MONDO_0016028,Rare Disease,"genetic, familial or congenital disease|cardiovascular disease"
+MONDO_0016158,Other,nervous system disease|psychiatric disorder
+MONDO_0018044,Other,psychiatric disorder|nervous system disease
+EFO_0004616,Other,musculoskeletal or connective tissue disease|phenotype
+HP_0000016,Other,phenotype
+HP_0004418,Other,phenotype
+MONDO_0015469,Rare Disease,"genetic, familial or congenital disease|musculoskeletal or connective tissue disease"
+MONDO_0020673,CVRM,cardiovascular disease|phenotype
+EFO_0010638,Respiratory,phenotype|respiratory or thoracic disease
+MONDO_0015134,Immunology,hematologic disease|immune system disease
+EFO_0007498,Other,nervous system disease
+EFO_1000868,Other,nervous system disease|phenotype
+MONDO_0600023,Immunology,immune system disease|musculoskeletal or connective tissue disease|phenotype
+EFO_0005631,Oncology,gastrointestinal disease|cancer or benign tumor
+MONDO_0008318,Rare Disease,"genetic, familial or congenital disease|musculoskeletal or connective tissue disease|cancer or benign tumor|phenotype"
+MONDO_0018531,CVRM,gastrointestinal disease|endocrine system disease|cancer or benign tumor
+EFO_0000540,Immunology,immune system disease
+EFO_0009856,Other,integumentary system disease
+MONDO_0100017,Other,integumentary system disease
+EFO_0801084,Other,phenotype
+HP_0000713,Other,phenotype
+HP_0012735,Other,phenotype
+EFO_0000280,Other,gastrointestinal disease
+EFO_0007549,Oncology,cancer or benign tumor|endocrine system disease
+EFO_0009130,Other,infectious disease
+EFO_1000270,Immunology,"gastrointestinal disease|hematologic disease|immune system disease|cancer or benign tumor|genetic, familial or congenital disease"
+EFO_1001461,CVRM,cardiovascular disease
+HP_0001601,Other,phenotype
+HP_0032252,Other,phenotype
+MONDO_0003523,CVRM,gastrointestinal disease|endocrine system disease|cancer or benign tumor
+EFO_0003764,CVRM,nervous system disease|cardiovascular disease
+MONDO_0002280,Other,hematologic disease|phenotype
+HP_0001250,Other,phenotype
+HP_0001257,Other,phenotype
+EFO_0000630,Oncology,nervous system disease|cancer or benign tumor
+EFO_0005701,Oncology,cancer or benign tumor
+EFO_0007053,Other,phenotype
+MONDO_0001501,Oncology,cancer or benign tumor
+MONDO_0002601,Oncology,cancer or benign tumor
+MONDO_0008978,Oncology,phenotype|cancer or benign tumor|musculoskeletal or connective tissue disease
+EFO_0008498,Oncology,cancer or benign tumor
+EFO_1000336,Oncology,cancer or benign tumor|respiratory or thoracic disease
+EFO_0007299,Other,urinary system disease|infectious disease
+EFO_0007332,Other,infectious disease|nervous system disease|phenotype
+EFO_0007338,Other,infectious disease
+MONDO_0016358,Respiratory,"respiratory or thoracic disease|urinary system disease|integumentary system disease|immune system disease|musculoskeletal or connective tissue disease|disorder of visual system|genetic, familial or congenital disease|phenotype"
+MONDO_0019262,Rare Disease,"nervous system disease|genetic, familial or congenital disease|psychiatric disorder|nutritional or metabolic disease|phenotype"
+MONDO_0600002,Other,infectious disease
+HP_0000982,Other,phenotype
+EFO_0002689,Immunology,immune system disease
+EFO_1001492,Rare Disease,"nervous system disease|genetic, familial or congenital disease|disorder of visual system|phenotype"
+MONDO_0018922,Immunology,hematologic disease|immune system disease|phenotype
+MONDO_0019736,Other,urinary system disease|phenotype
+EFO_0002893,Oncology,cancer or benign tumor|reproductive system or breast disease
+EFO_1001111,Oncology,pregnancy or perinatal disease|cancer or benign tumor|reproductive system or breast disease
+MONDO_0018944,Oncology,pregnancy or perinatal disease|reproductive system or breast disease|cancer or benign tumor
+EFO_0003957,Other,"injury, poisoning or other complication|musculoskeletal or connective tissue disease"
+HP_0000689,Other,phenotype
+EFO_0000512,Other,reproductive system or breast disease
+EFO_1000384,Oncology,gastrointestinal disease|cancer or benign tumor
+MONDO_0018800,Rare Disease,"genetic, familial or congenital disease|endocrine system disease|phenotype|reproductive system or breast disease"
+MONDO_0020541,CVRM,endocrine system disease|cancer or benign tumor|reproductive system or breast disease
+EFO_1001095,Other,gastrointestinal disease|integumentary system disease|phenotype
+EFO_1000727,Other,nutritional or metabolic disease|integumentary system disease|phenotype
+EFO_1000991,CVRM,nervous system disease|cardiovascular disease
+MONDO_0002243,Other,hematologic disease
+EFO_0005803,Other,hematologic disease
+EFO_0008573,CVRM,endocrine system disease|gastrointestinal disease|psychiatric disorder
+MONDO_0002334,Oncology,hematologic disease|cancer or benign tumor
+MONDO_0008218,Rare Disease,"integumentary system disease|genetic, familial or congenital disease|immune system disease"
+MONDO_0019297,Immunology,hematologic disease|integumentary system disease|immune system disease|phenotype
+EFO_1001134,Respiratory,respiratory or thoracic disease
+EFO_0000495,Other,pregnancy or perinatal disease|reproductive system or breast disease
+EFO_0003837,Other,biological_process
+EFO_0003944,Other,"injury, poisoning or other complication|musculoskeletal or connective tissue disease"
+EFO_0005321,Other,gastrointestinal disease|musculoskeletal or connective tissue disease
+EFO_0005547,Other,infectious disease
+EFO_0005681,Other,infectious disease
+EFO_0009686,Respiratory,respiratory or thoracic disease
+EFO_0009706,Immunology,immune system disease|endocrine system disease|gastrointestinal disease|nutritional or metabolic disease|phenotype
+EFO_0009909,Other,urinary system disease
+EFO_0011057,Other,"nervous system disease|injury, poisoning or other complication"
+EFO_1001121,CVRM,nutritional or metabolic disease|endocrine system disease|phenotype
+EFO_1001152,CVRM,urinary system disease|endocrine system disease|phenotype|musculoskeletal or connective tissue disease
+HP_0000737,Other,phenotype
+HP_0000855,Other,phenotype
+MONDO_0004647,Oncology,cancer or benign tumor
+MONDO_0008231,Rare Disease,"musculoskeletal or connective tissue disease|genetic, familial or congenital disease|reproductive system or breast disease|cancer or benign tumor"
+MONDO_0043771,Other,"injury, poisoning or other complication|integumentary system disease"
+EFO_1001248,Other,phenotype
+MONDO_0001336,Rare Disease,"nutritional or metabolic disease|genetic, familial or congenital disease|phenotype"
+MONDO_0044970,Rare Disease,"genetic, familial or congenital disease"
+Orphanet_309005,Rare Disease,"nutritional or metabolic disease|genetic, familial or congenital disease"
+EFO_0001069,Other,nutritional or metabolic disease
+EFO_0009806,Other,medical procedure
+HP_0001822,Other,phenotype
+EFO_0005856,Other,musculoskeletal or connective tissue disease|phenotype
+EFO_0010072,Other,phenotype
+EFO_0006818,Other,phenotype
+EFO_1000738,Other,integumentary system disease
+HP_0000999,Other,phenotype
+MONDO_0004907,Other,integumentary system disease|phenotype
+EFO_0003921,Other,gastrointestinal disease
+EFO_0007318,CVRM,"endocrine system disease|nutritional or metabolic disease|genetic, familial or congenital disease"
+EFO_0008493,CVRM,nervous system disease|cardiovascular disease
+HP_0001959,Other,phenotype
+MONDO_0015183,Other,gastrointestinal disease
+MONDO_0017182,CVRM,"endocrine system disease|nutritional or metabolic disease|genetic, familial or congenital disease"
+MONDO_0018911,Immunology,"immune system disease|genetic, familial or congenital disease|nutritional or metabolic disease|endocrine system disease|phenotype"
+MONDO_0019010,Rare Disease,"genetic, familial or congenital disease|endocrine system disease|nutritional or metabolic disease"
+EFO_0004191,Rare Disease,"integumentary system disease|genetic, familial or congenital disease|phenotype"
+EFO_1001918,Rare Disease,"nervous system disease|genetic, familial or congenital disease|psychiatric disorder"
+MONDO_0009293,Rare Disease,"nutritional or metabolic disease|genetic, familial or congenital disease"
+MONDO_0019037,Rare Disease,"nervous system disease|disorder of visual system|genetic, familial or congenital disease"
+MONDO_0019188,Rare Disease,"nervous system disease|genetic, familial or congenital disease|musculoskeletal or connective tissue disease"
+MONDO_0019200,Rare Disease,"nervous system disease|genetic, familial or congenital disease|disorder of visual system"
+EFO_0002501,Oncology,cancer or benign tumor|nervous system disease
+EFO_0005567,Respiratory,gastrointestinal disease|respiratory or thoracic disease|cancer or benign tumor
+EFO_0008626,Other,disorder of visual system
+EFO_0011061,Other,"injury, poisoning or other complication"
+MONDO_0007154,Rare Disease,"genetic, familial or congenital disease|cardiovascular disease|cancer or benign tumor"
+MONDO_0008380,Oncology,nervous system disease|disorder of visual system|cancer or benign tumor
+MONDO_0009925,Rare Disease,"integumentary system disease|musculoskeletal or connective tissue disease|genetic, familial or congenital disease"
+MONDO_0010523,Rare Disease,"integumentary system disease|genetic, familial or congenital disease|musculoskeletal or connective tissue disease"
+MONDO_0020204,Oncology,disorder of visual system|cancer or benign tumor
+MONDO_1040026,Oncology,cancer or benign tumor|nervous system disease
+Orphanet_85453,Rare Disease,"genetic, familial or congenital disease|disorder of visual system"
+EFO_1001109,CVRM,reproductive system or breast disease|endocrine system disease|nervous system disease
+HP_0001518,Other,phenotype
+MONDO_0007037,Rare Disease,"genetic, familial or congenital disease|musculoskeletal or connective tissue disease|phenotype"
+MONDO_0007793,Rare Disease,"genetic, familial or congenital disease|musculoskeletal or connective tissue disease|phenotype"
+MONDO_0011652,Rare Disease,"genetic, familial or congenital disease"
+Orphanet_269,Rare Disease,"genetic, familial or congenital disease|musculoskeletal or connective tissue disease"
+EFO_0000589,Other,nutritional or metabolic disease
+EFO_0000666,CVRM,endocrine system disease|cardiovascular disease|gastrointestinal disease
+EFO_0008568,Other,psychiatric disorder|nervous system disease
+EFO_1000652,CVRM,endocrine system disease|phenotype
+EFO_1000757,Rare Disease,"integumentary system disease|genetic, familial or congenital disease"
+MONDO_0004681,Other,psychiatric disorder|nervous system disease
+MONDO_0008948,Rare Disease,"integumentary system disease|disorder of visual system|nervous system disease|genetic, familial or congenital disease|nutritional or metabolic disease|phenotype|psychiatric disorder"
+MONDO_0010035,Rare Disease,"disorder of visual system|genetic, familial or congenital disease|nutritional or metabolic disease"
+EFO_0007294,Other,infectious disease|integumentary system disease
+GO_0008152,Other,biological_process
+EFO_0000330,Immunology,hematologic disease|immune system disease|cancer or benign tumor|musculoskeletal or connective tissue disease
+EFO_0000613,Rare Disease,"genetic, familial or congenital disease|cancer or benign tumor|musculoskeletal or connective tissue disease"
+EFO_0003867,Other,musculoskeletal or connective tissue disease
+EFO_0004145,Other,musculoskeletal or connective tissue disease|phenotype
+EFO_0005801,CVRM,cardiovascular disease
+EFO_0007126,Other,infectious disease|disorder of visual system|phenotype
+EFO_0007200,Immunology,immune system disease|nervous system disease|infectious disease|gastrointestinal disease
+EFO_0007208,Immunology,immune system disease|cardiovascular disease|nervous system disease|respiratory or thoracic disease|urinary system disease|phenotype
+EFO_0007295,Other,infectious disease
+EFO_0007313,Immunology,"urinary system disease|infectious disease|immune system disease|genetic, familial or congenital disease|reproductive system or breast disease|phenotype"
+EFO_0009104,Rare Disease,"genetic, familial or congenital disease|nutritional or metabolic disease|phenotype"
+EFO_0009322,CVRM,nutritional or metabolic disease|nervous system disease|disorder of visual system|cardiovascular disease
+EFO_0009552,CVRM,cardiovascular disease
+EFO_1000635,CVRM,cardiovascular disease|cancer or benign tumor
+EFO_1000662,Other,integumentary system disease
+EFO_1000706,Other,integumentary system disease
+EFO_1000999,Other,musculoskeletal or connective tissue disease
+EFO_1001176,Other,nervous system disease
+EFO_1001887,Other,musculoskeletal or connective tissue disease
+EFO_1001896,Other,musculoskeletal or connective tissue disease
+EFO_1001908,Other,psychiatric disorder|nervous system disease
+EFO_1001942,Respiratory,respiratory or thoracic disease|cancer or benign tumor
+HP_0002043,Other,gastrointestinal disease|phenotype
+HP_0002094,Other,phenotype
+HP_0006536,Other,phenotype
+HP_0011107,Other,phenotype
+HP_0200026,Other,phenotype
+MONDO_0001085,Other,urinary system disease
+MONDO_0001718,Other,disorder of visual system
+MONDO_0002026,Other,infectious disease
+MONDO_0009387,Rare Disease,"genetic, familial or congenital disease|nutritional or metabolic disease|phenotype"
+MONDO_0011972,Rare Disease,"genetic, familial or congenital disease|endocrine system disease|reproductive system or breast disease"
+MONDO_0015128,CVRM,endocrine system disease
+MONDO_0015129,CVRM,endocrine system disease
+MONDO_0016322,Oncology,cancer or benign tumor|respiratory or thoracic disease
+MONDO_0043919,Respiratory,"injury, poisoning or other complication|respiratory or thoracic disease"
+EFO_0000217,Other,gastrointestinal disease
+EFO_0000337,Other,gastrointestinal disease
+MONDO_0001676,CVRM,"endocrine system disease|gastrointestinal disease|nutritional or metabolic disease|integumentary system disease|genetic, familial or congenital disease"
+EFO_0009609,CVRM,cardiovascular disease|musculoskeletal or connective tissue disease
+HP_0000093,Other,phenotype
+Orphanet_303,Rare Disease,"genetic, familial or congenital disease"
+EFO_1000653,Other,musculoskeletal or connective tissue disease
+HP_0004326,Other,phenotype
+EFO_0006835,Other,phenotype
+MONDO_0015517,Immunology,"immune system disease|hematologic disease|genetic, familial or congenital disease"
+EFO_0007323,Immunology,immune system disease|musculoskeletal or connective tissue disease|phenotype
+MONDO_0018155,Rare Disease,"nervous system disease|genetic, familial or congenital disease"
+HP_0002017,Other,phenotype
+EFO_0004227,Other,infectious disease
+EFO_0007427,CVRM,cardiovascular disease
+EFO_1001806,Immunology,hematologic disease|immune system disease
+Orphanet_47045,Rare Disease,"genetic, familial or congenital disease|immune system disease|integumentary system disease"
+MONDO_0015597,Immunology,"immune system disease|integumentary system disease|genetic, familial or congenital disease"
+EFO_1002029,Respiratory,respiratory or thoracic disease|musculoskeletal or connective tissue disease
+EFO_0003063,Immunology,urinary system disease|immune system disease|nervous system disease|phenotype|musculoskeletal or connective tissue disease
+EFO_0009260,Oncology,integumentary system disease|cancer or benign tumor
+EFO_0005708,Oncology,urinary system disease|cancer or benign tumor
+HP_0003418,Other,phenotype
+EFO_1000728,Oncology,integumentary system disease|musculoskeletal or connective tissue disease|cancer or benign tumor
+MONDO_0001836,Other,reproductive system or breast disease
+MONDO_0015909,Other,hematologic disease|phenotype
+MONDO_0010518,Rare Disease,"genetic, familial or congenital disease|immune system disease|hematologic disease|cancer or benign tumor|phenotype"
+EFO_1001139,Other,infectious disease|gastrointestinal disease|musculoskeletal or connective tissue disease
+GO_0030431,Other,biological_process
+MONDO_0002260,Other,integumentary system disease
+EFO_1001132,CVRM,nervous system disease|cardiovascular disease|phenotype
+EFO_0004129,Rare Disease,"genetic, familial or congenital disease|nutritional or metabolic disease|nervous system disease|phenotype"
+EFO_0004214,CVRM,cardiovascular disease
+EFO_0007357,Other,infectious disease|integumentary system disease
+EFO_0007470,Respiratory,respiratory or thoracic disease|infectious disease
+EFO_0009659,CVRM,cardiovascular disease
+EFO_0011048,Other,"integumentary system disease|injury, poisoning or other complication"
+EFO_1000785,Rare Disease,"hematologic disease|integumentary system disease|genetic, familial or congenital disease|cancer or benign tumor"
+HP_0002202,Other,integumentary system disease|phenotype
+MONDO_0007947,Rare Disease,"musculoskeletal or connective tissue disease|genetic, familial or congenital disease"
+EFO_0004143,Rare Disease,"nervous system disease|phenotype|genetic, familial or congenital disease"
+EFO_0004320,Other,biological_process
+EFO_0008526,Other,nervous system disease
+HP_0000473,Other,phenotype
+HP_0001249,Other,phenotype
+HP_0002829,Other,phenotype
+MONDO_0002815,CVRM,cardiovascular disease|musculoskeletal or connective tissue disease
+MONDO_0005475,CVRM,nervous system disease|cardiovascular disease
+MONDO_0010826,Rare Disease,"nervous system disease|genetic, familial or congenital disease"
+MONDO_0019276,Rare Disease,"integumentary system disease|genetic, familial or congenital disease"
+MONDO_0100431,CVRM,nervous system disease|cardiovascular disease
+MONDO_0000845,Other,musculoskeletal or connective tissue disease
+MONDO_0006058,Oncology,cancer or benign tumor
+MONDO_0012579,Immunology,immune system disease|respiratory or thoracic disease
+MONDO_0015253,Rare Disease,"genetic, familial or congenital disease|hematologic disease|phenotype"
+EFO_0003839,Other,nervous system disease|disorder of visual system
+EFO_1000880,Other,disorder of visual system|phenotype
+EFO_0000326,Oncology,nervous system disease|cancer or benign tumor
+EFO_0002427,Oncology,hematologic disease|cancer or benign tumor
+EFO_1000388,Immunology,"hematologic disease|immune system disease|genetic, familial or congenital disease|cancer or benign tumor|musculoskeletal or connective tissue disease"
+MONDO_0003537,Oncology,hematologic disease|cancer or benign tumor
+MONDO_0010651,Rare Disease,"genetic, familial or congenital disease|nutritional or metabolic disease"
+MONDO_0019457,Immunology,hematologic disease|immune system disease|cancer or benign tumor|musculoskeletal or connective tissue disease
+EFO_1001100,Oncology,gastrointestinal disease|cancer or benign tumor
+MONDO_0018479,CVRM,"endocrine system disease|nutritional or metabolic disease|genetic, familial or congenital disease"
+EFO_0002430,Oncology,"hematologic disease|cancer or benign tumor|immune system disease|genetic, familial or congenital disease|phenotype|musculoskeletal or connective tissue disease"
+EFO_0004281,Oncology,urinary system disease|cancer or benign tumor
+EFO_0006566,Oncology,gastrointestinal disease|cancer or benign tumor|integumentary system disease
+EFO_0006738,Immunology,"hematologic disease|immune system disease|genetic, familial or congenital disease|cancer or benign tumor"
+EFO_1000485,Respiratory,respiratory or thoracic disease|cancer or benign tumor
+EFO_1001012,Oncology,cancer or benign tumor|nervous system disease
+MONDO_0001879,Oncology,gastrointestinal disease|cancer or benign tumor
+MONDO_0002529,Oncology,integumentary system disease|cancer or benign tumor
+MONDO_0003059,CVRM,gastrointestinal disease|endocrine system disease|cancer or benign tumor
+MONDO_0003199,Oncology,gastrointestinal disease|cancer or benign tumor
+MONDO_0020654,Oncology,urinary system disease|cancer or benign tumor
+MONDO_0021355,Oncology,gastrointestinal disease|cancer or benign tumor
+MONDO_0800207,Other,nervous system disease|phenotype
+EFO_0004248,Other,reproductive system or breast disease|phenotype
+EFO_1000786,Other,musculoskeletal or connective tissue disease|phenotype
+EFO_1000789,Other,musculoskeletal or connective tissue disease|phenotype
+HP_0002797,Other,phenotype
+EFO_0008521,Respiratory,respiratory or thoracic disease
+EFO_0009523,Other,gastrointestinal disease
+HP_0011499,Other,phenotype
+MONDO_0001330,Other,disorder of visual system
+EFO_0004270,Other,nervous system disease
+MONDO_0008090,Rare Disease,"hematologic disease|genetic, familial or congenital disease|immune system disease"
+MONDO_0024361,Other,psychiatric disorder|nervous system disease
+EFO_0000536,Oncology,cancer or benign tumor
+EFO_1000654,Oncology,cancer or benign tumor
+MONDO_0019460,Immunology,hematologic disease|immune system disease|cancer or benign tumor|musculoskeletal or connective tissue disease
+MONDO_0100193,CVRM,endocrine system disease|gastrointestinal disease
+EFO_0003895,CVRM,cardiovascular disease|phenotype
+EFO_0004246,CVRM,cardiovascular disease|hematologic disease|phenotype|immune system disease
+EFO_0020975,Other,medical procedure
+HP_0003040,Other,phenotype
+MONDO_0019737,Other,hematologic disease
+EFO_0006862,Rare Disease,"genetic, familial or congenital disease|nervous system disease|disorder of ear"
+MONDO_0016486,CVRM,"endocrine system disease|hematologic disease|genetic, familial or congenital disease|phenotype"
+MONDO_0016487,CVRM,"endocrine system disease|hematologic disease|genetic, familial or congenital disease|phenotype"
+EFO_0004267,CVRM,endocrine system disease|gastrointestinal disease|cancer or benign tumor
+HP_0012450,Other,phenotype
+MONDO_0019072,Other,gastrointestinal disease|phenotype
+EFO_1000820,CVRM,cardiovascular disease
+EFO_1001799,Other,reproductive system or breast disease
+EFO_0006803,CVRM,cardiovascular disease|phenotype
+EFO_1001165,Immunology,immune system disease|musculoskeletal or connective tissue disease
+EFO_1001881,Other,integumentary system disease
+MONDO_0013021,Immunology,"immune system disease|hematologic disease|musculoskeletal or connective tissue disease|genetic, familial or congenital disease"
+MONDO_0018088,Immunology,"immune system disease|musculoskeletal or connective tissue disease|genetic, familial or congenital disease"
+MONDO_0022518,Immunology,disorder of ear|nervous system disease|immune system disease
+MONDO_0002508,Other,gastrointestinal disease|musculoskeletal or connective tissue disease|phenotype
+EFO_0009541,Other,gastrointestinal disease
+HP_0001655,Other,phenotype
+MONDO_0013144,Rare Disease,"genetic, familial or congenital disease|hematologic disease|phenotype|musculoskeletal or connective tissue disease"
+EFO_1001491,Other,reproductive system or breast disease
+HP_0001987,Other,phenotype
+EFO_1000627,CVRM,endocrine system disease
+EFO_1000931,CVRM,endocrine system disease
+HP_0031364,Other,hematologic disease|phenotype
+MONDO_0021201,Other,infectious disease|integumentary system disease
+EFO_0002503,Other,phenotype
+EFO_0006772,Oncology,cancer or benign tumor
+EFO_1000849,Respiratory,respiratory or thoracic disease|cancer or benign tumor
+EFO_1000926,Immunology,hematologic disease|immune system disease
+MONDO_0015523,CVRM,cardiovascular disease|cancer or benign tumor
+MONDO_0010735,Rare Disease,"nervous system disease|genetic, familial or congenital disease"
+EFO_1002017,CVRM,endocrine system disease|cancer or benign tumor
+EFO_1000749,Immunology,immune system disease|integumentary system disease
+EFO_1001037,Respiratory,respiratory or thoracic disease
+HP_0012668,Other,phenotype
+MONDO_0004938,Other,psychiatric disorder
+MONDO_0002794,Oncology,cancer or benign tumor|nervous system disease
+MONDO_0018648,Oncology,gastrointestinal disease|musculoskeletal or connective tissue disease|cancer or benign tumor
+EFO_1000465,Oncology,cancer or benign tumor|reproductive system or breast disease
+EFO_0003776,Other,medical procedure
+EFO_0000178,Oncology,gastrointestinal disease|cancer or benign tumor
+MONDO_0004844,Oncology,cancer or benign tumor|gastrointestinal disease
+MONDO_0100339,Rare Disease,"genetic, familial or congenital disease|nervous system disease"
+MONDO_0007113,Rare Disease,"nervous system disease|genetic, familial or congenital disease"
+MONDO_0009131,Rare Disease,"nervous system disease|genetic, familial or congenital disease"
+MONDO_0018910,Rare Disease,"integumentary system disease|genetic, familial or congenital disease|nutritional or metabolic disease|phenotype"
+MONDO_0043209,Rare Disease,"integumentary system disease|phenotype|nutritional or metabolic disease|genetic, familial or congenital disease"
+EFO_0002970,Other,musculoskeletal or connective tissue disease
+EFO_0004269,CVRM,cardiovascular disease
+EFO_0005306,CVRM,cardiovascular disease
+EFO_0007507,CVRM,nervous system disease|cardiovascular disease
+EFO_0009952,CVRM,cardiovascular disease|phenotype
+EFO_1000850,Other,gastrointestinal disease
+EFO_1001866,Other,gastrointestinal disease|phenotype
+EFO_1001909,Other,musculoskeletal or connective tissue disease|phenotype
+HP_0002307,Other,phenotype
+HP_0025267,Other,phenotype
+MONDO_0000396,Other,nervous system disease
+MONDO_0002507,Other,gastrointestinal disease|musculoskeletal or connective tissue disease
+HP_0004398,Other,phenotype
+MONDO_0000386,CVRM,gastrointestinal disease|endocrine system disease|cancer or benign tumor
+MONDO_0017611,CVRM,endocrine system disease|reproductive system or breast disease|cancer or benign tumor|nervous system disease|musculoskeletal or connective tissue disease
+MONDO_0002474,Rare Disease,"nutritional or metabolic disease|genetic, familial or congenital disease"
+EFO_0004211,Other,nutritional or metabolic disease
+EFO_1001348,Other,infectious disease|reproductive system or breast disease
+EFO_1001865,Respiratory,infectious disease|respiratory or thoracic disease|phenotype
+HP_0001662,Other,phenotype
+HP_0100832,Other,phenotype
+EFO_1000869,Other,urinary system disease
+EFO_0003958,Other,"integumentary system disease|injury, poisoning or other complication"
+EFO_0009516,Other,"injury, poisoning or other complication"
+HP_0000618,Other,phenotype
+HP_0430034,CVRM,cardiovascular disease|phenotype
+MONDO_0004933,CVRM,"cardiovascular disease|genetic, familial or congenital disease"
+EFO_0007949,CVRM,endocrine system disease|gastrointestinal disease|phenotype
+MONDO_0012756,Rare Disease,"genetic, familial or congenital disease"
+MONDO_0024574,Other,hematologic disease
+EFO_0000731,Rare Disease,"musculoskeletal or connective tissue disease|genetic, familial or congenital disease|cancer or benign tumor|reproductive system or breast disease"
+EFO_0008509,Oncology,integumentary system disease|reproductive system or breast disease|cancer or benign tumor
+EFO_1001974,Oncology,cancer or benign tumor|musculoskeletal or connective tissue disease|infectious disease|reproductive system or breast disease
+MONDO_0004658,Oncology,cancer or benign tumor|integumentary system disease|reproductive system or breast disease
+EFO_0002431,Oncology,nervous system disease|cancer or benign tumor
+HP_0003202,Other,phenotype
+EFO_0005252,CVRM,cardiovascular disease
+EFO_1001373,Other,"injury, poisoning or other complication"
+EFO_0003099,CVRM,endocrine system disease
+EFO_0009200,Respiratory,respiratory or thoracic disease|cardiovascular disease|phenotype
+EFO_1000824,Respiratory,respiratory or thoracic disease|pregnancy or perinatal disease
+EFO_1000954,Other,reproductive system or breast disease
+EFO_1001827,Other,psychiatric disorder|nervous system disease
+EFO_1001893,Other,integumentary system disease
+EFO_0004911,Rare Disease,"nutritional or metabolic disease|phenotype|genetic, familial or congenital disease"
+MONDO_0021187,Other,nutritional or metabolic disease|phenotype
+Orphanet_411,CVRM,"endocrine system disease|nutritional or metabolic disease|genetic, familial or congenital disease"
+EFO_0006544,Oncology,urinary system disease|cancer or benign tumor
+MONDO_0002177,CVRM,endocrine system disease|nutritional or metabolic disease
+MONDO_0018997,CVRM,"cardiovascular disease|genetic, familial or congenital disease|hematologic disease|integumentary system disease|immune system disease|musculoskeletal or connective tissue disease|phenotype"
+MONDO_0024686,Oncology,musculoskeletal or connective tissue disease|cancer or benign tumor
+EFO_0003940,Other,biological_process
+EFO_0004285,Other,phenotype
+MONDO_0001999,Respiratory,respiratory or thoracic disease|cardiovascular disease|phenotype
+MONDO_0002413,Rare Disease,"nutritional or metabolic disease|genetic, familial or congenital disease"
+MONDO_0009067,Rare Disease,"urinary system disease|genetic, familial or congenital disease|nutritional or metabolic disease"
+MONDO_0009287,Rare Disease,"nutritional or metabolic disease|genetic, familial or congenital disease"
+MONDO_0009288,Immunology,"hematologic disease|immune system disease|nutritional or metabolic disease|genetic, familial or congenital disease"
+MONDO_0010526,Rare Disease,"genetic, familial or congenital disease|nutritional or metabolic disease"
+Orphanet_364,Rare Disease,"urinary system disease|genetic, familial or congenital disease|nutritional or metabolic disease|gastrointestinal disease"
+EFO_0008549,Oncology,cancer or benign tumor
+EFO_0008620,Rare Disease,"genetic, familial or congenital disease|urinary system disease"
+MONDO_0002207,Oncology,cancer or benign tumor|reproductive system or breast disease
+MONDO_0009889,Rare Disease,"genetic, familial or congenital disease|urinary system disease"
+EFO_0006790,Rare Disease,"psychiatric disorder|nervous system disease|genetic, familial or congenital disease|nutritional or metabolic disease|cardiovascular disease"
+HP_0002015,Other,phenotype
+EFO_1000747,Immunology,"immune system disease|integumentary system disease|genetic, familial or congenital disease"
+MONDO_0015798,Oncology,cancer or benign tumor
+EFO_0000538,CVRM,cardiovascular disease|musculoskeletal or connective tissue disease
+EFO_0007148,CVRM,cardiovascular disease
+EFO_0001061,Oncology,cancer or benign tumor|reproductive system or breast disease
+EFO_0003846,Oncology,urinary system disease|cancer or benign tumor
+EFO_0004198,Oncology,integumentary system disease|cancer or benign tumor
+EFO_0004288,Oncology,gastrointestinal disease|cancer or benign tumor
+EFO_0005288,Respiratory,respiratory or thoracic disease|cancer or benign tumor
+EFO_0009430,Other,nervous system disease|phenotype
+EFO_0020003,Other,biological_process
+EFO_1000852,Rare Disease,"genetic, familial or congenital disease"
+MONDO_0001409,Other,gastrointestinal disease|phenotype
+MONDO_0002038,Oncology,cancer or benign tumor
+MONDO_0002914,Oncology,cancer or benign tumor|nervous system disease
+MONDO_0021327,Oncology,urinary system disease|cancer or benign tumor
+MONDO_0009031,Rare Disease,"genetic, familial or congenital disease|phenotype|musculoskeletal or connective tissue disease"
+MONDO_0018150,Rare Disease,"disorder of visual system|genetic, familial or congenital disease|nutritional or metabolic disease"
+MONDO_0019064,Rare Disease,"nervous system disease|genetic, familial or congenital disease|phenotype"
+EFO_0005407,Other,psychiatric disorder|nervous system disease
+EFO_0009562,Other,nervous system disease|phenotype
+HP_0002121,Other,phenotype
+HP_0002381,Other,phenotype
+MONDO_0008728,CVRM,"reproductive system or breast disease|endocrine system disease|nutritional or metabolic disease|genetic, familial or congenital disease"
+EFO_0008586,CVRM,cardiovascular disease
+EFO_0009549,Other,reproductive system or breast disease
+EFO_1000478,CVRM,endocrine system disease|reproductive system or breast disease|cancer or benign tumor|nervous system disease|musculoskeletal or connective tissue disease
+EFO_1001482,CVRM,"cardiovascular disease|injury, poisoning or other complication"
+EFO_0003948,Rare Disease,"gastrointestinal disease|genetic, familial or congenital disease"
+EFO_1001207,CVRM,cardiovascular disease|phenotype
+EFO_1000081,Oncology,gastrointestinal disease|cancer or benign tumor
+EFO_0003822,Other,phenotype
+HP_0002039,Other,phenotype
+EFO_0007135,Other,musculoskeletal or connective tissue disease|phenotype
+MONDO_0004169,Other,reproductive system or breast disease
+Orphanet_247,CVRM,"cardiovascular disease|genetic, familial or congenital disease"
+EFO_0000769,Other,infectious disease
+EFO_0000772,Other,infectious disease
+EFO_0001423,Other,nervous system disease
+EFO_1001161,CVRM,cardiovascular disease
+HP_0002196,Other,phenotype
+HP_0002960,Other,phenotype
+MONDO_0017278,CVRM,endocrine system disease|immune system disease
+MONDO_0020640,Immunology,nervous system disease|immune system disease
+MONDO_0044887,Immunology,"hematologic disease|immune system disease|nervous system disease|infectious disease|cancer or benign tumor|genetic, familial or congenital disease"
+MONDO_0007068,Rare Disease,"nutritional or metabolic disease|genetic, familial or congenital disease"
+MONDO_0010520,Rare Disease,"genetic, familial or congenital disease|urinary system disease"
+HP_0004322,Other,phenotype
+EFO_1001103,CVRM,"pregnancy or perinatal disease|cardiovascular disease|genetic, familial or congenital disease|respiratory or thoracic disease|phenotype"
+EFO_1001935,Immunology,"hematologic disease|immune system disease|cancer or benign tumor|genetic, familial or congenital disease"
+MONDO_0003541,Rare Disease,"hematologic disease|genetic, familial or congenital disease|cancer or benign tumor"
+MONDO_0008876,Rare Disease,"hematologic disease|genetic, familial or congenital disease|integumentary system disease"
+EFO_1000069,CVRM,endocrine system disease|musculoskeletal or connective tissue disease|reproductive system or breast disease|nervous system disease|cancer or benign tumor
+HP_0001945,Other,phenotype
+MONDO_0001314,Other,nutritional or metabolic disease|musculoskeletal or connective tissue disease|phenotype
+EFO_1001164,Other,musculoskeletal or connective tissue disease
+MONDO_0008310,Rare Disease,"genetic, familial or congenital disease|musculoskeletal or connective tissue disease|phenotype"
+EFO_0004994,Rare Disease,"genetic, familial or congenital disease|musculoskeletal or connective tissue disease"
+EFO_0022932,Other,medical procedure
+EFO_1001378,Other,musculoskeletal or connective tissue disease
+EFO_1000704,Other,integumentary system disease
+EFO_1001478,Other,phenotype
+MONDO_0002547,Oncology,nervous system disease|cancer or benign tumor
+EFO_1000988,Other,phenotype
+EFO_1001062,CVRM,endocrine system disease|phenotype
+MONDO_0000481,Other,nervous system disease
+EFO_0005772,Other,nervous system disease
+EFO_1000238,Oncology,cancer or benign tumor|reproductive system or breast disease
+EFO_0009386,Other,nervous system disease
+HP_0001082,Other,phenotype
+MONDO_0018570,Rare Disease,"genetic, familial or congenital disease|nutritional or metabolic disease"
+MONDO_0002540,Oncology,cancer or benign tumor|nervous system disease
+MONDO_0021310,Oncology,cancer or benign tumor
+MONDO_0021633,Oncology,nervous system disease|cancer or benign tumor
+EFO_1001412,Other,phenotype
+HP_0000975,Other,phenotype
+EFO_0004152,Other,nervous system disease|phenotype
+HP_0100660,Other,phenotype
+EFO_1001006,CVRM,"endocrine system disease|genetic, familial or congenital disease|reproductive system or breast disease"
+HP_0000771,Other,phenotype
+MONDO_0019499,Rare Disease,"genetic, familial or congenital disease|endocrine system disease|reproductive system or breast disease|phenotype"
+EFO_1000668,Immunology,immune system disease|integumentary system disease
+EFO_0005422,Other,biological_process
+EFO_0008590,Respiratory,phenotype|respiratory or thoracic disease
+MONDO_0001347,Rare Disease,"nervous system disease|genetic, familial or congenital disease|musculoskeletal or connective tissue disease|phenotype"
+Orphanet_590,Rare Disease,"disorder of visual system|genetic, familial or congenital disease|musculoskeletal or connective tissue disease"
+MONDO_0002959,Other,nervous system disease
+MONDO_0000432,Immunology,"hematologic disease|immune system disease|genetic, familial or congenital disease|cancer or benign tumor"
+EFO_0005799,Other,psychiatric disorder|nervous system disease
+HP_0031284,Other,phenotype
+MONDO_0009735,Rare Disease,"disorder of visual system|integumentary system disease|genetic, familial or congenital disease|immune system disease|hematologic disease"
+EFO_0008008,Other,phenotype
+EFO_0008560,Other,reproductive system or breast disease|phenotype
+HP_0002153,Other,phenotype
+HP_0002647,Other,phenotype
+MONDO_0008737,Other,hematologic disease
+EFO_0010580,Oncology,"integumentary system disease|hematologic disease|cancer or benign tumor|genetic, familial or congenital disease"
+MONDO_0002040,Other,integumentary system disease|infectious disease
+MONDO_0017778,Rare Disease,"disorder of visual system|integumentary system disease|genetic, familial or congenital disease"
+HP_0040187,Other,phenotype
+HP_0200023,Other,phenotype
+MONDO_0007374,Rare Disease,"genetic, familial or congenital disease|disorder of visual system"
+MONDO_0021023,Rare Disease,"genetic, familial or congenital disease|endocrine system disease|reproductive system or breast disease"
+EFO_0005773,Rare Disease,"nervous system disease|genetic, familial or congenital disease|disorder of visual system"
+EFO_1001417,Respiratory,respiratory or thoracic disease|immune system disease
+MONDO_0018097,Other,nervous system disease
+EFO_0000478,Oncology,gastrointestinal disease|cancer or benign tumor
+EFO_0007456,Oncology,gastrointestinal disease|cancer or benign tumor
+EFO_1000123,Oncology,gastrointestinal disease|cancer or benign tumor|endocrine system disease
+EFO_1001956,CVRM,gastrointestinal disease|endocrine system disease|cancer or benign tumor
+EFO_1001959,CVRM,gastrointestinal disease|endocrine system disease|cancer or benign tumor
+MONDO_0002165,Oncology,gastrointestinal disease|cancer or benign tumor
+MONDO_0002516,Oncology,gastrointestinal disease|cancer or benign tumor
+HP_0001298,Other,phenotype
+EFO_0003757,Other,psychiatric disorder|nervous system disease
+HP_0002013,Other,phenotype
+MONDO_0000914,CVRM,"cardiovascular disease|genetic, familial or congenital disease"
+MONDO_0024355,Respiratory,infectious disease|respiratory or thoracic disease
+EFO_0004777,Other,psychiatric disorder|nervous system disease
+EFO_1000096,Other,biological_process
+MONDO_0004782,Other,urinary system disease
+MONDO_0007450,CVRM,"endocrine system disease|nervous system disease|urinary system disease|genetic, familial or congenital disease|reproductive system or breast disease"
+EFO_1001254,Other,nervous system disease
+MONDO_0010797,Rare Disease,"genetic, familial or congenital disease"
+MONDO_0000723,Rare Disease,"nervous system disease|genetic, familial or congenital disease|psychiatric disorder"
+MONDO_0010298,Rare Disease,"nutritional or metabolic disease|genetic, familial or congenital disease"
+EFO_0004286,CVRM,cardiovascular disease
+EFO_0005539,CVRM,endocrine system disease
+EFO_0009538,Immunology,"nervous system disease|immune system disease|genetic, familial or congenital disease|phenotype"
+MONDO_0019740,Immunology,immune system disease|hematologic disease|phenotype
+EFO_0008496,Other,phenotype
+Orphanet_240071,Rare Disease,"psychiatric disorder|nervous system disease|disorder of visual system|genetic, familial or congenital disease"
+EFO_0010682,Other,medical procedure
+EFO_1002009,Other,nervous system disease|disorder of visual system
+MONDO_0001751,Other,gastrointestinal disease|phenotype
+MONDO_0019402,CVRM,"endocrine system disease|hematologic disease|genetic, familial or congenital disease|phenotype"
+EFO_0009446,Other,phenotype
+MONDO_0003002,Oncology,cancer or benign tumor
+EFO_0002921,Oncology,cancer or benign tumor|reproductive system or breast disease
+EFO_0003851,Oncology,nervous system disease|cancer or benign tumor
+EFO_1000172,Oncology,cancer or benign tumor|reproductive system or breast disease
+EFO_1000431,CVRM,endocrine system disease|cancer or benign tumor|reproductive system or breast disease
+EFO_1000432,Oncology,cancer or benign tumor|endocrine system disease|reproductive system or breast disease
+EFO_1000531,Oncology,integumentary system disease|cancer or benign tumor
+EFO_1000600,Respiratory,respiratory or thoracic disease|cancer or benign tumor
+EFO_1001931,Respiratory,gastrointestinal disease|respiratory or thoracic disease|cancer or benign tumor
+MONDO_0003865,Oncology,integumentary system disease|cancer or benign tumor
+MONDO_0004379,Oncology,integumentary system disease|reproductive system or breast disease|cancer or benign tumor
+MONDO_0018079,Immunology,immune system disease|endocrine system disease|hematologic disease|cancer or benign tumor
+MONDO_0018352,Oncology,cancer or benign tumor|reproductive system or breast disease
+MONDO_0020657,Oncology,infectious disease|cancer or benign tumor
+MONDO_0021358,Respiratory,respiratory or thoracic disease|cancer or benign tumor
+MONDO_0044785,Oncology,integumentary system disease|cancer or benign tumor
+EFO_0003896,Other,phenotype
+HP_0000011,Other,urinary system disease|phenotype
+EFO_1001340,Other,phenotype
+EFO_1002000,CVRM,cardiovascular disease|musculoskeletal or connective tissue disease
+HP_0001920,Other,phenotype
+MONDO_0010788,Rare Disease,"disorder of visual system|nervous system disease|genetic, familial or congenital disease|cardiovascular disease|nutritional or metabolic disease|musculoskeletal or connective tissue disease|phenotype"
+HP_0002653,Other,phenotype
+EFO_0005755,Other,musculoskeletal or connective tissue disease
+MONDO_0002102,Other,gastrointestinal disease|phenotype
+MONDO_0015270,Rare Disease,"genetic, familial or congenital disease|nutritional or metabolic disease"
+MONDO_0024474,Oncology,cancer or benign tumor
+EFO_0010582,Other,nervous system disease
+EFO_1001054,Other,musculoskeletal or connective tissue disease|phenotype
+HP_0200134,Other,phenotype
+MONDO_0016244,Immunology,"hematologic disease|immune system disease|genetic, familial or congenital disease"
+EFO_0009314,Other,hematologic disease
+EFO_0004593,CVRM,pregnancy or perinatal disease|endocrine system disease|nutritional or metabolic disease|phenotype
+GO_0042593,Other,biological_process
+MONDO_0008627,Oncology,urinary system disease|cancer or benign tumor
+MONDO_0044923,Immunology,hematologic disease|immune system disease|cancer or benign tumor|musculoskeletal or connective tissue disease
+MONDO_0019313,CVRM,"cardiovascular disease|genetic, familial or congenital disease|hematologic disease|integumentary system disease|immune system disease|phenotype"
+EFO_0002546,Other,phenotype
+EFO_0007369,Immunology,immune system disease
+EFO_0009482,Immunology,immune system disease
+EFO_1000685,Other,integumentary system disease
+EFO_1001463,Other,gastrointestinal disease
+Orphanet_2314,Immunology,"immune system disease|genetic, familial or congenital disease"
+MONDO_0100244,Other,urinary system disease|nutritional or metabolic disease|hematologic disease|phenotype
+HP_0002894,Other,phenotype
+EFO_0007214,Respiratory,gastrointestinal disease|infectious disease|respiratory or thoracic disease
+GO_0030073,Other,biological_process
+HP_0003074,Other,phenotype
+EFO_0004775,Other,integumentary system disease
+EFO_0007527,Other,nervous system disease|infectious disease
+EFO_0008997,Other,musculoskeletal or connective tissue disease|phenotype
+MONDO_0020122,Immunology,immune system disease|musculoskeletal or connective tissue disease|phenotype
+MONDO_0008297,CVRM,"endocrine system disease|gastrointestinal disease|integumentary system disease|genetic, familial or congenital disease|nutritional or metabolic disease"
+MONDO_0009902,Rare Disease,"genetic, familial or congenital disease|hematologic disease|integumentary system disease|nutritional or metabolic disease|phenotype"
+MONDO_0019600,Rare Disease,"integumentary system disease|genetic, familial or congenital disease|nutritional or metabolic disease"
+EFO_1000986,Other,disorder of visual system|phenotype
+EFO_1001119,Other,disorder of visual system|phenotype
